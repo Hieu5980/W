@@ -1,0 +1,501 @@
+# Copyright (C) 2024 WPSMS.IO
+# This file is distributed under the GPL-2.0+.
+#: admin-pages.php:31
+msgid "Account SID"
+msgstr "SID de la cuenta"
+
+#: admin-pages.php:31 admin-pages.php:39
+msgid "Available from within your Twilio account"
+msgstr "Disponible desde su cuenta de Twilio"
+
+#: admin-pages.php:33
+msgid "Enter Account SID"
+msgstr "Introduzca el SID de la cuenta"
+
+#: admin-pages.php:35 admin-pages.php:43
+msgid ""
+"To view API credentials visit <a href=\"https://www.twilio.com/user/account/"
+"voice-sms-mms\" target=\"_blank\">https://www.twilio.com/user/account/voice-"
+"sms-mms</a>"
+msgstr ""
+"Para ver las credenciales de la API, visite <a href=\"https://www.twilio.com/"
+"user/account/voice-sms-mms\" target=\"_blank\">https://www.twilio.com/user/"
+"account/voice-sms-mms</a>"
+
+#: admin-pages.php:39
+msgid "Auth Token"
+msgstr "Token de autenticación"
+
+#: admin-pages.php:41
+msgid "Enter Auth Token"
+msgstr "Introduzca el token de autenticación"
+
+#: admin-pages.php:47
+msgid "Service ID"
+msgstr "ID del servicio"
+
+#: admin-pages.php:47
+msgid "Available from within your Twilio account It's require for bulk SMS."
+msgstr ""
+"Disponible desde su cuenta de Twilio. Es necesario para SMS masivos."
+
+#: admin-pages.php:49
+msgid "Enter Notify Service ID"
+msgstr "Introduzca el ID del servicio de notificaciones"
+
+#: admin-pages.php:51
+msgid ""
+"To view or create Notify Service ID visit <a href=\"https://www.twilio.com/"
+"console/notify/services\" target=\"_blank\">https://www.twilio.com/console/"
+"notify/services</a>"
+msgstr ""
+"Para ver o crear el ID del servicio de notificaciones, visite <a href=\"https://"
+"www.twilio.com/console/notify/services\" target=\"_blank\">https://www.twilio."
+"com/console/notify/services</a>"
+
+#: admin-pages.php:55
+msgid "Twilio Number"
+msgstr "Número de Twilio"
+
+#: admin-pages.php:55
+msgid "Must be a valid number associated with your Twilio account"
+msgstr "Debe ser un número válido asociado a su cuenta de Twilio"
+
+#: admin-pages.php:59
+msgid "Country code + 10-digit Twilio phone number (i.e. +16175551212)"
+msgstr "Código de país + número de teléfono de Twilio de 10 dígitos (por ejemplo, +16175551212)"
+
+#: admin-pages.php:65
+msgid "Advanced &amp; Debug Options"
+msgstr "Opciones avanzadas y de depuración"
+
+#: admin-pages.php:65
+msgid "With great power, comes great responsiblity."
+msgstr "Con gran poder, viene una gran responsabilidad."
+
+#: admin-pages.php:67
+msgid "Enable Logging"
+msgstr "Activar registro"
+
+#: admin-pages.php:68
+msgid "Enable or Disable Logging"
+msgstr "Activar o desactivar el registro"
+
+#: admin-pages.php:69
+msgid "Add Mobile Number Field to User Profiles"
+msgstr "Agregar campo de número de móvil a los perfiles de usuario"
+
+#: admin-pages.php:70
+msgid ""
+"Adds a new field \"Mobile Number\" under Contact Info on all user profile "
+"forms."
+msgstr ""
+"Añade un nuevo campo \"Número de móvil\" en Información de contacto en todos los formularios de perfil de usuario."
+
+#: admin-pages.php:71
+msgid "Shorten URLs using Bit.ly"
+msgstr "Acortar URLs usando Bit.ly"
+
+#: admin-pages.php:72
+msgid "Enter Bit.ly Access Token"
+msgstr "Introduzca el token de acceso de Bit.ly"
+
+#: admin-pages.php:73
+msgid ""
+"Shorten all URLs in the message using the <a href=\"https://dev.bitly.com/"
+"v4_documentation.html\" target=\"_blank\">Bit.ly URL Shortener API</a>. "
+"Checking will display the access token field."
+msgstr ""
+"Acortar todas las URLs en el mensaje utilizando la <a href=\"https://dev.bitly.com/"
+"v4_documentation.html\" target=\"_blank\">API de acortamiento de URLs de Bit.ly</a>. "
+"Al seleccionar, se mostrará el campo de token de acceso."
+
+#: admin-pages.php:74
+msgid "Shorten URLs using Google (Deprecated)"
+msgstr "Acortar URLs usando Google (Obsoleto)"
+
+#: admin-pages.php:75
+msgid "Enter Google Project API key"
+msgstr "Introduzca la clave API del proyecto de Google"
+
+#: admin-pages.php:76
+msgid ""
+"Shorten all URLs in the message using the <a href=\"https://code.google.com/"
+"apis/console/\" target=\"_blank\">Google URL Shortener API</a>. Checking "
+"will display the API key field."
+msgstr ""
+"Acortar todas las URLs en el mensaje utilizando la <a href=\"https://code.google.com/"
+"apis/console/\" target=\"_blank\">API de acortamiento de URLs de Google</a>. Al seleccionar, se mostrará el campo de clave API."
+
+#: admin-pages.php:81 admin-pages.php:302
+msgid "Save Changes"
+msgstr "Guardar cambios"
+
+#: admin-pages.php:122
+msgid ""
+"Some details are missing. Please fill all the fields below and try again."
+msgstr ""
+"Faltan algunos detalles. Por favor, complete todos los campos a continuación e intente nuevamente."
+
+#: admin-pages.php:134
+msgid "Send a Message"
+msgstr "Enviar un mensaje"
+
+#: admin-pages.php:135
+msgid ""
+"If you are sending messages while in trial mode, the recipient phone number "
+"must be verified with Twilio."
+msgstr ""
+"Si está enviando mensajes en modo de prueba, el número de teléfono del destinatario "
+"debe estar verificado con Twilio."
+
+#: admin-pages.php:140
+msgid "Recipient Number"
+msgstr "Número del destinatario"
+
+#: admin-pages.php:144
+msgid ""
+"The destination phone number. Format with a '+' and country code e.g., "
+"+16175551212 "
+msgstr ""
+"El número de teléfono de destino. Formato con un '+' y código de país, por ejemplo, +16175551212"
+
+#: admin-pages.php:148
+msgid "Message Body"
+msgstr "Cuerpo del mensaje"
+
+#: admin-pages.php:151
+msgid "The text of the message you want to send, limited to 1600 characters."
+msgstr "El texto del mensaje que desea enviar, limitado a 1600 caracteres."
+
+#: admin-pages.php:156
+msgid "Send Message"
+msgstr "Enviar mensaje"
+
+#: admin-pages.php:177
+msgid "Logs Cleared"
+msgstr "Registros borrados"
+
+#: admin-pages.php:183
+msgid "Logging currently disabled."
+msgstr "Actualmente el registro está desactivado."
+
+#: admin-pages.php:187
+msgid "Clear Logs"
+msgstr "Borrar registros"
+
+#: admin-pages.php:188 core.php:200
+msgid "Logs"
+msgstr "Registros"
+
+#: admin-pages.php:212
+msgid "Notification Number:"
+msgstr "Número de notificación:"
+
+#: admin-pages.php:214
+msgid "Enter Notification Number"
+msgstr "Introduzca el número de notificación"
+
+#: admin-pages.php:215
+msgid "Set the number to receive SMS."
+msgstr "Establezca el número para recibir SMS."
+
+#: admin-pages.php:216
+msgid "Leave empty if you want to receive sms on the main settings number."
+msgstr "Déjelo vacío si desea recibir SMS en el número de configuración principal."
+
+#: admin-pages.php:221
+msgid "New Post Published"
+msgstr "Nuevo artículo publicado"
+
+#: admin-pages.php:224 admin-pages.php:244 admin-pages.php:264
+#: admin-pages.php:284
+msgid "Activate:"
+msgstr "Activar:"
+
+#: admin-pages.php:231 admin-pages.php:251 admin-pages.php:271
+#: admin-pages.php:291
+msgid "Message:"
+msgstr "Mensaje:"
+
+#: admin-pages.php:234 admin-pages.php:254 admin-pages.php:274
+#: admin-pages.php:294
+msgid "Enter the content of the sms message"
+msgstr "Introduzca el contenido del mensaje SMS"
+
+#: admin-pages.php:235
+msgid ""
+"Post title: %post_title%, Post content: %post_content%, Post url: %post_url"
+"%, Post date: %post_date%"
+msgstr ""
+"Título de la publicación: %post_title%, Contenido de la publicación: %post_content%, URL de la publicación: %post_url, Fecha de la publicación: %post_date"
+
+#: admin-pages.php:241
+msgid "New User Registered"
+msgstr "Nuevo usuario registrado"
+
+#: admin-pages.php:255
+msgid ""
+"User Login: %user_login%, User email: %user_email%, Register date: "
+"%date_register%"
+msgstr ""
+"Nombre de usuario: %user_login%, Correo electrónico del usuario: %user_email%, Fecha de registro: %date_register%"
+
+#: admin-pages.php:261
+msgid "New Comment"
+msgstr "Nuevo comentario"
+
+#: admin-pages.php:275
+msgid ""
+"Comment Author: %comment_author%, Author email: %comment_author_email%, "
+"Author url: %comment
+
+#: admin-pages.php:31
+msgid "Account SID"
+msgstr "SID de la cuenta"
+
+#: admin-pages.php:31 admin-pages.php:39
+msgid "Available from within your Twilio account"
+msgstr "Disponible desde su cuenta de Twilio"
+
+#: admin-pages.php:33
+msgid "Enter Account SID"
+msgstr "Introduzca el SID de la cuenta"
+
+#: admin-pages.php:35 admin-pages.php:43
+msgid ""
+"To view API credentials visit <a href=\"https://www.twilio.com/user/account/"
+"voice-sms-mms\" target=\"_blank\">https://www.twilio.com/user/account/voice-"
+"sms-mms</a>"
+msgstr ""
+"Para ver las credenciales de la API, visite <a href=\"https://www.twilio.com/"
+"user/account/voice-sms-mms\" target=\"_blank\">https://www.twilio.com/user/"
+"account/voice-sms-mms</a>"
+
+#: admin-pages.php:39
+msgid "Auth Token"
+msgstr "Token de autenticación"
+
+#: admin-pages.php:41
+msgid "Enter Auth Token"
+msgstr "Introduzca el token de autenticación"
+
+#: admin-pages.php:47
+msgid "Service ID"
+msgstr "ID del servicio"
+
+#: admin-pages.php:47
+msgid "Available from within your Twilio account It's require for bulk SMS."
+msgstr ""
+"Disponible desde su cuenta de Twilio. Es necesario para SMS masivos."
+
+#: admin-pages.php:49
+msgid "Enter Notify Service ID"
+msgstr "Introduzca el ID del servicio de notificaciones"
+
+#: admin-pages.php:51
+msgid ""
+"To view or create Notify Service ID visit <a href=\"https://www.twilio.com/"
+"console/notify/services\" target=\"_blank\">https://www.twilio.com/console/"
+"notify/services</a>"
+msgstr ""
+"Para ver o crear el ID del servicio de notificaciones, visite <a href=\"https://"
+"www.twilio.com/console/notify/services\" target=\"_blank\">https://www.twilio."
+"com/console/notify/services</a>"
+
+#: admin-pages.php:55
+msgid "Twilio Number"
+msgstr "Número de Twilio"
+
+#: admin-pages.php:55
+msgid "Must be a valid number associated with your Twilio account"
+msgstr "Debe ser un número válido asociado a su cuenta de Twilio"
+
+#: admin-pages.php:59
+msgid "Country code + 10-digit Twilio phone number (i.e. +16175551212)"
+msgstr "Código de país + número de teléfono de Twilio de 10 dígitos (por ejemplo, +16175551212)"
+
+#: admin-pages.php:65
+msgid "Advanced &amp; Debug Options"
+msgstr "Opciones avanzadas y de depuración"
+
+#: admin-pages.php:65
+msgid "With great power, comes great responsiblity."
+msgstr "Con gran poder, viene una gran responsabilidad."
+
+#: admin-pages.php:67
+msgid "Enable Logging"
+msgstr "Activar registro"
+
+#: admin-pages.php:68
+msgid "Enable or Disable Logging"
+msgstr "Activar o desactivar el registro"
+
+#: admin-pages.php:69
+msgid "Add Mobile Number Field to User Profiles"
+msgstr "Agregar campo de número de móvil a los perfiles de usuario"
+
+#: admin-pages.php:70
+msgid ""
+"Adds a new field \"Mobile Number\" under Contact Info on all user profile "
+"forms."
+msgstr ""
+"Añade un nuevo campo \"Número de móvil\" en Información de contacto en todos los formularios de perfil de usuario."
+
+#: admin-pages.php:71
+msgid "Shorten URLs using Bit.ly"
+msgstr "Acortar URLs usando Bit.ly"
+
+#: admin-pages.php:72
+msgid "Enter Bit.ly Access Token"
+msgstr "Introduzca el token de acceso de Bit.ly"
+
+#: admin-pages.php:73
+msgid ""
+"Shorten all URLs in the message using the <a href=\"https://dev.bitly.com/"
+"v4_documentation.html\" target=\"_blank\">Bit.ly URL Shortener API</a>. "
+"Checking will display the access token field."
+msgstr ""
+"Acortar todas las URLs en el mensaje utilizando la <a href=\"https://dev.bitly.com/"
+"v4_documentation.html\" target=\"_blank\">API de acortamiento de URLs de Bit.ly</a>. "
+"Al seleccionar, se mostrará el campo de token de acceso."
+
+#: admin-pages.php:74
+msgid "Shorten URLs using Google (Deprecated)"
+msgstr "Acortar URLs usando Google (Obsoleto)"
+
+#: admin-pages.php:75
+msgid "Enter Google Project API key"
+msgstr "Introduzca la clave API del proyecto de Google"
+
+#: admin-pages.php:76
+msgid ""
+"Shorten all URLs in the message using the <a href=\"https://code.google.com/"
+"apis/console/\" target=\"_blank\">Google URL Shortener API</a>. Checking "
+"will display the API key field."
+msgstr ""
+"Acortar todas las URLs en el mensaje utilizando la <a href=\"https://code.google.com/"
+"apis/console/\" target=\"_blank\">API de acortamiento de URLs de Google</a>. Al seleccionar, se mostrará el campo de clave API."
+
+#: admin-pages.php:81 admin-pages.php:302
+msgid "Save Changes"
+msgstr "Guardar cambios"
+
+#: admin-pages.php:122
+msgid ""
+"Some details are missing. Please fill all the fields below and try again."
+msgstr ""
+"Faltan algunos detalles. Por favor, complete todos los campos a continuación e intente nuevamente."
+
+#: admin-pages.php:134
+msgid "Send a Message"
+msgstr "Enviar un mensaje"
+
+#: admin-pages.php:135
+msgid ""
+"If you are sending messages while in trial mode, the recipient phone number "
+"must be verified with Twilio."
+msgstr ""
+"Si está enviando mensajes en modo de prueba, el número de teléfono del destinatario "
+"debe estar verificado con Twilio."
+
+#: admin-pages.php:140
+msgid "Recipient Number"
+msgstr "Número del destinatario"
+
+#: admin-pages.php:144
+msgid ""
+"The destination phone number. Format with a '+' and country code e.g., "
+"+16175551212 "
+msgstr ""
+"El número de teléfono de destino. Formato con un '+' y código de país, por ejemplo, +16175551212"
+
+#: admin-pages.php:148
+msgid "Message Body"
+msgstr "Cuerpo del mensaje"
+
+#: admin-pages.php:151
+msgid "The text of the message you want to send, limited to 1600 characters."
+msgstr "El texto del mensaje que desea enviar, limitado a 1600 caracteres."
+
+#: admin-pages.php:156
+msgid "Send Message"
+msgstr "Enviar mensaje"
+
+#: admin-pages.php:177
+msgid "Logs Cleared"
+msgstr "Registros borrados"
+
+#: admin-pages.php:183
+msgid "Logging currently disabled."
+msgstr "Actualmente el registro está desactivado."
+
+#: admin-pages.php:187
+msgid "Clear Logs"
+msgstr "Borrar registros"
+
+#: admin-pages.php:188 core.php:200
+msgid "Logs"
+msgstr "Registros"
+
+#: admin-pages.php:212
+msgid "Notification Number:"
+msgstr "Número de notificación:"
+
+#: admin-pages.php:214
+msgid "Enter Notification Number"
+msgstr "Introduzca el número de notificación"
+
+#: admin-pages.php:215
+msgid "Set the number to receive SMS."
+msgstr "Establezca el número para recibir SMS."
+
+#: admin-pages.php:216
+msgid "Leave empty if you want to receive sms on the main settings number."
+msgstr "Déjelo vacío si desea recibir SMS en el número de configuración principal."
+
+#: admin-pages.php:221
+msgid "New Post Published"
+msgstr "Nuevo artículo publicado"
+
+#: admin-pages.php:224 admin-pages.php:244 admin-pages.php:264
+#: admin-pages.php:284
+msgid "Activate:"
+msgstr "Activar:"
+
+#: admin-pages.php:231 admin-pages.php:251 admin-pages.php:271
+#: admin-pages.php:291
+msgid "Message:"
+msgstr "Mensaje:"
+
+#: admin-pages.php:234 admin-pages.php:254 admin-pages.php:274
+#: admin-pages.php:294
+msgid "Enter the content of the sms message"
+msgstr "Introduzca el contenido del mensaje SMS"
+
+#: admin-pages.php:235
+msgid ""
+"Post title: %post_title%, Post content: %post_content%, Post url: %post_url"
+"%, Post date: %post_date%"
+msgstr ""
+"Título de la publicación: %post_title%, Contenido de la publicación: %post_content%, URL de la publicación: %post_url, Fecha de la publicación: %post_date"
+
+#: admin-pages.php:241
+msgid "New User Registered"
+msgstr "Nuevo usuario registrado"
+
+#: admin-pages.php:255
+msgid ""
+"User Login: %user_login%, User email: %user_email%, Register date: "
+"%date_register%"
+msgstr ""
+"Nombre de usuario: %user_login%, Correo electrónico del usuario: %user_email%, Fecha de registro: %date_register%"
+
+#: admin-pages.php:261
+msgid "New Comment"
+msgstr "Nuevo comentario"
+
+#: admin-pages.php:275
+msgid ""
+"Comment Author: %comment_author%, Author email: %comment_author_email%, "
+"Author url: %comment

@@ -1,0 +1,374 @@
+
+/*= Admin Styles
+---------------------------------------*/
+.tabcontent {
+    display: flex;
+    flex-wrap: nowrap; /* Prevents wrapping */
+    gap: 20px;
+
+    border: 1px solid #9f9f9f;
+   
+
+}
+
+.column {
+    padding: 10px;
+    background-color: #f9f9f9; /* Optional: background color for columns */
+}
+
+.first-column {
+    flex: 0 1 70%; /* Takes up 60% of the space */
+	padding: 50px 20px;
+}
+
+.second-column {
+    flex: 0 1 30%;
+  margin-left: auto;
+  padding: 50px 30px;
+  background: #f4f4c9;
+  border: 2px dashed #cea016;
+  border-right: 0px;
+  margin-top: 50px;
+  align-self: flex-start; 
+}
+.wraped h1 {
+  font-size: 25px;
+  font-weight: 600;
+}
+.wraped ol strong {
+  color: #03337d;
+}
+.first-column .button-primary {   padding: 7px 30px;}
+@media (max-width: 768px) {
+    .tabcontent {
+        flex-wrap: wrap; /* Allows wrapping on smaller screens */
+    }
+    .first-column, .second-column {
+        flex: 0 1 100%; /* Takes up 100% width on smaller screens */
+        margin-left: 0;
+    }
+	.button.button-primary.greeno , 
+.button.blueo { width: 100%}
+}
+
+
+.nav-tab.wpsmstab {
+  padding: 5px 25px;
+  border-radius: 3px 3px 0 0;
+  border: 1px solid #9f9f9f;
+  border-bottom: 0;
+  margin-bottom: -2px;
+}
+
+
+.nav-tab-active.wpsmstab, .nav-tab-active.wpsmstab:focus, .nav-tab-active.wpsmstab:focus:active, .nav-tab-active.wpsmstab:hover , .nav-tab.wpsmstab:hover  {
+  border-bottom: 0;
+  background: #e1cf9a;
+  color: #000;
+}
+
+.button.button-primary.greeno ,.button.button-primary.circlo, 
+.button.blueo {
+  padding: 7px 30px;
+  margin: 40px 0 0 0;
+  background: #ea368a;
+  border-color: #ea368a;
+   text-transform: uppercase;
+}
+.button.blueo {background: #fff;}
+
+.button.button-primary.circlo {background: #060606;
+  border: 0;
+  padding: 15px;
+  line-height: 15px;
+  text-transform: none;
+  border-radius: 100%;
+  color: #fff;
+  }
+.button.button-primary.greeno:hover {
+  background: #000;
+  border-color: #000;
+}
+
+
+.button.button-primary.greeno .dashicons.dashicons-cart {
+  margin-top: 5px;
+  margin-right: 5px;
+}
+
+/*= Admin Notice
+---------------------------------------*/
+
+
+.nav-tab.addons {
+border-top: 1px solid blue;
+  float: right;
+  background: blue;
+  color: #fff;
+  border-radius: 3px 3px 0 0;
+  border-bottom: 0;
+}
+
+.noticed {
+    background: #f0ecec;
+    padding: 10px;
+    border-radius: 3px;
+    border: 1px solid #ccc;
+}
+h3.apps {
+	float: left;
+	
+}
+a.button-primary.wpsms  {
+	margin-top: 10px;
+	padding: 5px 20px;
+	    margin-bottom: 10px;
+    margin-left: 10px;
+}
+
+a.button-primary.wpsms.bundle  {
+ background: #f22f46;
+ border-color: #f22f46;
+ margin-left: 0px;
+	}
+a.button-primary.wpsms:hover , .wpsms-addon .wp-post-image:hover 
+{ opacity: 0.9 !important}
+
+.wpsms-addon {
+	
+	background: #fff;
+border: 1px solid #ccc;
+float: left;
+padding: 14px;
+position: relative;
+margin: 0 15px 15px 0;
+height: auto:;
+}
+
+.addons-container {
+	
+	margin: 15px 0;
+	width: 25%;
+float: left;
+}
+
+
+.wpsms-addon .wp-post-image {
+    width: 100%;
+    height: auto;
+    vertical-align: bottom;
+}
+.notice.wpsms-message {
+  padding: 20px;
+  border-left-color: #E61E6E; }
+  .notice.wpsms-message .wpsms-message-inner {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align: center;
+    -webkit-align-items: center;
+        -ms-flex-align: center;
+            align-items: center; }
+			
+			
+	 .notice.wpsms-message .wpsms-message-inner h2 {	
+	 
+	 margin-bottom: 10px;
+	 }	
+	
+
+
+
+  .notice.wpsms-message .wpsms-message-icon ,  .notice.wpsms-message .wpsms-adforest-icon , .notice.wpsms-message .wpsms-aicontently-icon ,  .notice.wpsms-message .wpsms-premium-icon   {
+  
+	height: 100px;
+	width: 80px;
+	background: transparent url('../images/wpsmslogo.png') 0 15px no-repeat;
+	background-size: contain;
+   }
+     .notice.wpsms-message .wpsms-message-icon:hover { 
+	 opacity: 0.8
+	 }
+	  .notice.wpsms-message .wpsms-message-icon a {
+	  display: block;
+	  height: 100px;
+	  width: 80px;
+	  text-indent: -9999px;
+	  }
+	 .notice.wpsms-message .wpsms-adforest-icon  {
+		 background: transparent url('../images/wpsmsadforestilogo.png') 0 0px no-repeat;
+		 background-size: contain;
+		 width: 145px;
+	 }
+	 
+	  .notice.wpsms-message .wpsms-aicontently-icon  {
+		 background: transparent url('../images/aicontentlylogo.png') 0 0px no-repeat;
+		 background-size: contain;
+		 width: 145px;
+	 }
+	 
+	  .notice.wpsms-message .wpsms-premium-icon  {
+		 background: transparent url('../images/premiumlogo.png') 0 0px no-repeat;
+		 background-size: contain;
+		 width: 145px;
+	 }
+	 
+  .notice.wpsms-message .wpsms-message-content {
+    padding: 0 20px; }
+  .notice.wpsms-message p {
+    padding: 0;
+    margin: 0; font-size: 14px }
+  .notice.wpsms-message h3 {
+    margin: 0 0 5px; }
+  .notice.wpsms-message .wpsms-message-action {
+    text-align: center;
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -webkit-flex-direction: column;
+        -ms-flex-direction: column;
+            flex-direction: column;
+    margin-left: auto; }
+    .notice.wpsms-message .wpsms-message-action .wpsms-button {
+      background-color: #D30C5C;
+      color: #fff;
+      border-color: #7c1337;
+      -webkit-box-shadow: 0 1px 0 #7c1337;
+              box-shadow: 0 1px 0 #7c1337;
+      padding: 5px 30px;
+      height: auto;
+      line-height: 20px;
+      text-transform: capitalize; }
+      .notice.wpsms-message .wpsms-message-action .wpsms-button i {
+        margin-right: 5px; }
+      .notice.wpsms-message .wpsms-message-action .wpsms-button:hover {
+        background-color: #a0124a; }
+      .notice.wpsms-message .wpsms-message-action .wpsms-button:active {
+        -webkit-box-shadow: inset 0 1px 0 #7c1337;
+                box-shadow: inset 0 1px 0 #7c1337;
+        -webkit-transform: translateY(1px);
+            -ms-transform: translateY(1px);
+                transform: translateY(1px); }
+    .notice.wpsms-message .wpsms-message-action .wpsms-link {
+      padding-top: 5px; }
+  .notice.wpsms-message .wpsms-message-actions {
+    margin-top: 10px; }
+    .notice.wpsms-message .wpsms-message-actions .button.button-primary {
+      margin-right: 5px; background: #E61E6E;
+border-color: #BD1659	  }
+
+.notice.wpsms-message-announcement {
+  border-color: #D30C5C; }
+  .notice.wpsms-message-announcement a {
+    color: #D30C5C; }
+
+@media (min-width: 1200px) {
+  .wpsms-message-action {
+    padding-right: 10px; } }
+
+@media (max-width: 600px) {
+  .notice.wpsms-message {
+    padding: 20px; }
+    .notice.wpsms-message .wpsms-message-inner {
+      display: block;
+      text-align: center; }
+      .notice.wpsms-message .wpsms-message-inner .wpsms-message-icon,
+      .notice.wpsms-message .wpsms-message-inner .wpsms-message-content,
+      .notice.wpsms-message .wpsms-message-inner .wpsms-message-action {
+        display: block; }
+      .notice.wpsms-message .wpsms-message-inner .wpsms-message-action {
+        text-align: center; }
+      .notice.wpsms-message .wpsms-message-inner .wpsms-message-icon {
+        width: auto; }
+      .notice.wpsms-message .wpsms-message-inner .wpsms-message-content {
+        padding: 10px 0; } }
+		
+		
+		
+		
+/* Toggle Button */
+
+.cm-toggle {
+    -webkit-appearance: none;
+    -webkit-tap-highlight-color: transparent;
+    position: relative;
+    border: 0;
+    outline: 0;
+    cursor: pointer;
+    margin: 10px;
+    margin-left: 5px !important;
+}
+
+input.cm-toggle {
+    margin-left: 15px !important;
+    display: block !important;
+    margin-bottom: 15px !important;
+}
+
+
+/* To create surface of toggle button */
+
+.cm-toggle:after {
+    content: '';
+    width: 60px;
+    height: 28px;
+    display: inline-block;
+    background: rgba(196, 195, 195, 1);
+    border-radius: 18px;
+    clear: both;
+    margin: -5px -13px;
+}
+
+
+/* Contents before checkbox to create toggle handle */
+
+.cm-toggle:before {
+    content: '';
+    width: 24px;
+    height: 24px;
+    display: block;
+    position: absolute;
+    left: -10px;
+    top: -8px;
+    border-radius: 50%;
+    background: rgb(255, 255, 255);
+    box-shadow: 1px 1px 3px rgba(0, 0, 0, 0.6);
+    margin: 5px 0px !important;
+}
+
+
+/* Shift the handle to left on check event */
+
+.cm-toggle:checked:before {
+    left: 22px;
+    box-shadow: -1px 1px 3px rgba(0, 0, 0, 0.6);
+    width: 23px !important;
+    height: 23px !important;
+    content: '' !important;
+}
+
+
+/* Background color when toggle button will be active */
+
+.cm-toggle:checked:after {
+    background: #1d3ad7;
+}
+
+
+/* Transition for smoothness */
+
+.cm-toggle,
+.cm-toggle:before,
+.cm-toggle:after,
+.cm-toggle:checked:before,
+.cm-toggle:checked:after {
+    transition: ease .3s;
+    -webkit-transition: ease .3s;
+    -moz-transition: ease .3s;
+    -o-transition: ease .3s;
+}
+	

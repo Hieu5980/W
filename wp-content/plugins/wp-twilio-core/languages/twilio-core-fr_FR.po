@@ -1,0 +1,447 @@
+# Copyright (C) 2024 WPSMS.IO
+# This file is distributed under the GPL-2.0+.
+msgid ""
+msgstr ""
+"Project-Id-Version: Package Name\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-06-14 01:59+0100\n"
+"PO-Revision-Date: 2024-06-14 02:10+0100\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: fr_FR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-Generator: Eazy Po 1.0.0.0\n"
+
+#: admin-pages.php:31
+msgid "Account SID"
+msgstr "SID du compte"
+
+#: admin-pages.php:31 admin-pages.php:39
+msgid "Available from within your Twilio account"
+msgstr "Disponible dans votre compte Twilio"
+
+#: admin-pages.php:33
+msgid "Enter Account SID"
+msgstr "Entrez le SID du compte"
+
+#: admin-pages.php:35 admin-pages.php:43
+msgid ""
+"To view API credentials visit <a href=\"https://www.twilio.com/user/account/"
+"voice-sms-mms\" target=\"_blank\">https://www.twilio.com/user/account/voice-"
+"sms-mms</a>"
+msgstr ""
+"Pour voir les identifiants API, visitez <a href=\"https://www.twilio.com/"
+"user/account/voice-sms-mms\" target=\"_blank\">https://www.twilio.com/user/"
+"account/voice-sms-mms</a>"
+
+#: admin-pages.php:39
+msgid "Auth Token"
+msgstr "Jeton d'authentification"
+
+#: admin-pages.php:41
+msgid "Enter Auth Token"
+msgstr "Entrez le jeton d'authentification"
+
+#: admin-pages.php:47
+msgid "Service ID"
+msgstr "ID du service"
+
+#: admin-pages.php:47
+msgid "Available from within your Twilio account It's require for bulk SMS."
+msgstr "Disponible dans votre compte Twilio. Requis pour les SMS en masse."
+
+#: admin-pages.php:49
+msgid "Enter Notify Service ID"
+msgstr "Entrez l'ID du service de notification"
+
+#: admin-pages.php:51
+msgid ""
+"To view or create Notify Service ID visit <a href=\"https://www.twilio.com/"
+"console/notify/services\" target=\"_blank\">https://www.twilio.com/console/"
+"notify/services</a>"
+msgstr ""
+"Pour voir ou créer l'ID du service de notification, visitez <a href=\"https:"
+"//www.twilio.com/console/notify/services\" target=\"_blank\">https://www."
+"twilio.com/console/notify/services</a>"
+
+#: admin-pages.php:55
+msgid "Twilio Number"
+msgstr "Numéro Twilio"
+
+#: admin-pages.php:55
+msgid "Must be a valid number associated with your Twilio account"
+msgstr "Doit être un numéro valide associé à votre compte Twilio"
+
+#: admin-pages.php:59
+msgid "Country code + 10-digit Twilio phone number (i.e. +16175551212)"
+msgstr "Code pays + numéro de téléphone Twilio à 10 chiffres (ex. +16175551212)"
+
+#: admin-pages.php:65
+msgid "Advanced &amp; Debug Options"
+msgstr "Options avancées et de débogage"
+
+#: admin-pages.php:65
+msgid "With great power, comes great responsiblity."
+msgstr "Un grand pouvoir implique de grandes responsabilités."
+
+#: admin-pages.php:67
+msgid "Enable Logging"
+msgstr "Activer les journaux"
+
+#: admin-pages.php:68
+msgid "Enable or Disable Logging"
+msgstr "Activer ou désactiver les journaux"
+
+#: admin-pages.php:69
+msgid "Add Mobile Number Field to User Profiles"
+msgstr "Ajouter le champ Numéro de mobile aux profils utilisateur"
+
+#: admin-pages.php:70
+msgid ""
+"Adds a new field \"Mobile Number\" under Contact Info on all user profile "
+"forms."
+msgstr ""
+"Ajoute un nouveau champ « Numéro de mobile » sous Informations de contact "
+"dans tous les formulaires de profil utilisateur."
+
+#: admin-pages.php:71
+msgid "Shorten URLs using Bit.ly"
+msgstr "Raccourcir les URL avec Bit.ly"
+
+#: admin-pages.php:72
+msgid "Enter Bit.ly Access Token"
+msgstr "Entrez le jeton d'accès Bit.ly"
+
+#: admin-pages.php:73
+msgid ""
+"Shorten all URLs in the message using the <a href=\"https://dev.bitly.com/"
+"v4_documentation.html\" target=\"_blank\">Bit.ly URL Shortener API</a>. "
+"Checking will display the access token field."
+msgstr ""
+"Raccourcir toutes les URL dans le message en utilisant l'API de raccourcissement "
+"d'URL Bit.ly. Cochez pour afficher le champ du jeton d'accès."
+
+#: admin-pages.php:74
+msgid "Shorten URLs using Google (Deprecated)"
+msgstr "Raccourcir les URL avec Google (Obsolète)"
+
+#: admin-pages.php:75
+msgid "Enter Google Project API key"
+msgstr "Entrez la clé API du projet Google"
+
+#: admin-pages.php:76
+msgid ""
+"Shorten all URLs in the message using the <a href=\"https://code.google.com/"
+"apis/console/\" target=\"_blank\">Google URL Shortener API</a>. Checking "
+"will display the API key field."
+msgstr ""
+"Raccourcir toutes les URL dans le message en utilisant l'API de raccourcissement "
+"d'URL Google. Cochez pour afficher le champ de la clé API."
+
+#: admin-pages.php:81 admin-pages.php:302
+msgid "Save Changes"
+msgstr "Enregistrer les modifications"
+
+#: admin-pages.php:122
+msgid ""
+"Some details are missing. Please fill all the fields below and try again."
+msgstr ""
+"Certains détails sont manquants. Veuillez remplir tous les champs ci-dessous "
+"et réessayer."
+
+#: admin-pages.php:134
+msgid "Send a Message"
+msgstr "Envoyer un message"
+
+#: admin-pages.php:135
+msgid ""
+"If you are sending messages while in trial mode, the recipient phone number "
+"must be verified with Twilio."
+msgstr ""
+"Si vous envoyez des messages en mode d'essai, le numéro de téléphone du "
+"destinataire doit être vérifié avec Twilio."
+
+#: admin-pages.php:140
+msgid "Recipient Number"
+msgstr "Numéro du destinataire"
+
+#: admin-pages.php:144
+msgid ""
+"The destination phone number. Format with a '+' and country code e.g., "
+"+16175551212 "
+msgstr ""
+"Le numéro de téléphone de destination. Format avec un '+' et le code pays, "
+"par exemple, +16175551212"
+
+#: admin-pages.php:148
+msgid "Message Body"
+msgstr "Corps du message"
+
+#: admin-pages.php:151
+msgid "The text of the message you want to send, limited to 1600 characters."
+msgstr ""
+"Le texte du message que vous souhaitez envoyer, limité à 1600 caractères."
+
+#: admin-pages.php:156
+msgid "Send Message"
+msgstr "Envoyer le message"
+
+#: admin-pages.php:177
+msgid "Logs Cleared"
+msgstr "Journaux effacés"
+
+#: admin-pages.php:183
+msgid "Logging currently disabled."
+msgstr "Enregistrement actuellement désactivé."
+
+#: admin-pages.php:187
+msgid "Clear Logs"
+msgstr "Effacer les journaux"
+
+#: admin-pages.php:188 core.php:200
+msgid "Logs"
+msgstr "Journaux"
+
+#: admin-pages.php:212
+msgid "Notification Number:"
+msgstr "Numéro de notification :"
+
+#: admin-pages.php:214
+msgid "Enter Notification Number"
+msgstr "Entrez le numéro de notification"
+
+#: admin-pages.php:215
+msgid "Set the number to receive SMS."
+msgstr "Définir le numéro pour recevoir les SMS."
+
+#: admin-pages.php:216
+msgid "Leave empty if you want to receive sms on the main settings number."
+msgstr ""
+"Laissez vide si vous souhaitez recevoir les SMS sur le numéro de paramètres "
+"principal."
+
+#: admin-pages.php:221
+msgid "New Post Published"
+msgstr "Nouvel article publié"
+
+#: admin-pages.php:224 admin-pages.php:244 admin-pages.php:264
+#: admin-pages.php:284
+msgid "Activate:"
+msgstr "Activer :"
+
+#: admin-pages.php:231 admin-pages.php:251 admin-pages.php:271
+#: admin-pages.php:291
+msgid "Message:"
+msgstr "Message :"
+
+#: admin-pages.php:234 admin-pages.php:254 admin-pages.php:274
+#: admin-pages.php:294
+msgid "Enter the content of the sms message"
+msgstr "Entrez le contenu du message SMS"
+
+#: admin-pages.php:235
+msgid ""
+"Post title: %post_title%, Post content: %post_content%, Post url: %post_url"
+"%, Post date: %post_date%"
+msgstr ""
+"Titre de l'article : %post_title%, Contenu de l'article : %post_content%, "
+""URL de l'article : %post_url%, Date de l'article : %post_date"
+
+#: admin-pages.php:241
+msgid "New User Registered"
+msgstr "Nouvel utilisateur enregistré"
+
+#: admin-pages.php:255
+msgid ""
+"User Login: %user_login%, User email: %user_email%, Register date: "
+"%date_register%"
+msgstr ""
+"Identifiant utilisateur : %user_login%, Adresse email de l'utilisateur : "
+"%user_email%, Date d'inscription : %date_register%"
+
+#: admin-pages.php:261
+msgid "New Comment"
+msgstr "Nouveau commentaire"
+
+#: admin-pages.php:275
+msgid ""
+"Comment Author: %comment_author%, Author email: %comment_author_email%, "
+"Author url: %comment_author_url%, Author IP: %comment_author_IP%, Comment "
+"date: %comment_date%, Comment content: %comment_content%"
+msgstr ""
+"Auteur du commentaire : %comment_author%, Adresse email de l'auteur : "
+"%comment_author_email%, URL de l'auteur : %comment_author_url%, IP de l'auteur : "
+"%comment_author_IP%, Date du commentaire : %comment_date%, Contenu du commentaire : "
+"%comment_content%"
+
+#: admin-pages.php:281
+msgid "New Login"
+msgstr "Nouvelle connexion"
+
+#: admin-pages.php:295
+msgid "Username: %username_login%, Nickname: %display_name%"
+msgstr ""
+"Nom d'utilisateur : %username_login%, Pseudo : %display_name%"
+
+#: apps-integrations.php:18
+msgid "WPSMS Addons & Integrations"
+msgstr "Extensions et intégrations WPSMS"
+
+#: apps-integrations.php:23
+msgid "Upgrade to WP SMS Pro"
+msgstr "Mise à niveau vers WP SMS Pro"
+
+#: apps-integrations.php:24
+msgid "Or"
+msgstr "Ou"
+
+#: apps-integrations.php:27
+msgid "Get Everything bellow for $49 Only!"
+msgstr "Obtenez tout ci-dessous pour seulement 49 $ !"
+
+#: core.php:123 core.php:124
+msgid "WPSMS"
+msgstr "WPSMS"
+
+#: core.php:146
+msgid "WPSMS - Twilio"
+msgstr "WPSMS - Twilio"
+
+#: core.php:199
+msgid "Settings"
+msgstr "Paramètres"
+
+#: core.php:201
+msgid "Test"
+msgstr "Test"
+
+#: core.php:202
+msgid "Notifications"
+msgstr "Notifications"
+
+#: core.php:203
+msgid "Apps & Integrations"
+msgstr "Applications et intégrations"
+
+#: helpers.php:24
+#, php-format
+msgid "Success! Message SID: %s"
+msgstr "Succès ! SID du message : %s"
+
+#: helpers.php:27
+#, php-format
+msgid "****** API Error: %s ******"
+msgstr "****** Erreur API : %s ******"
+
+#: helpers.php:32
+msgid ""
+"Some details are missing. Please make sure you have added all details in the "
+"settings tab."
+msgstr ""
+"Certains détails sont manquants. Veuillez vous assurer d'avoir ajouté tous "
+"les détails dans l'onglet des paramètres."
+
+#: helpers.php:113
+msgid "From: "
+msgstr "De : "
+
+#: helpers.php:113
+msgid "To: "
+msgstr "À : "
+
+#: helpers.php:129
+msgid "****** Missing Twilio Number ******"
+msgstr "****** Numéro Twilio manquant ******"
+
+#: helpers.php:133
+msgid "****** Missing Recipient Number ******"
+msgstr "****** Numéro du destinataire manquant ******"
+
+#: helpers.php:137
+msgid "****** Missing Message ******"
+msgstr "****** Message manquant ******"
+
+#: helpers.php:141
+msgid "****** Missing Account SID ******"
+msgstr "****** SID du compte manquant ******"
+
+#: helpers.php:145
+msgid "****** Missing Auth Token ******"
+msgstr "****** Jeton d'authentification manquant ******"
+
+#: helpers.php:170
+msgid "Mobile Number"
+msgstr "Numéro de mobile"
+
+#: inc/admin-notices.php:31
+msgid "WordPress SMS BULK,SMS Newsletter & Awesome Premium Features"
+msgstr "WordPress SMS BULK, SMS Newsletter & Fonctionnalités Premium Incroyables"
+
+#: inc/admin-notices.php:34
+msgid "Extend the WPSMS with powerful features."
+msgstr "Étendez WPSMS avec des fonctionnalités puissantes."
+
+#: inc/admin-notices.php:38
+msgid "Upgrade Now."
+msgstr "Mise à niveau maintenant."
+
+#: inc/admin-notices.php:44
+msgid "Upgrade Now"
+msgstr "Mise à niveau maintenant"
+
+#: inc/admin-notices.php:47 inc/admin-notices.php:119
+msgid "Dismiss"
+msgstr "Rejeter"
+
+#: inc/admin-notices.php:103
+msgid "WP SMS for AdForest Theme"
+msgstr "WP SMS pour le thème AdForest"
+
+#: inc/admin-notices.php:106
+msgid ""
+"Using this addon, Your ad sellers will receive SMS as a notification when "
+"they are contacted on their listings' contact forms."
+msgstr ""
+"En utilisant cette extension, les vendeurs de vos annonces recevront des SMS "
+"comme notification lorsqu'ils sont contactés via les formulaires de contact "
+"de leurs annonces."
+
+#: inc/admin-notices.php:110
+msgid "Check it out."
+msgstr "Découvrez-le."
+
+#: inc/admin-notices.php:116
+msgid "Awesome,Let me to see"
+msgstr "Génial, laissez-moi voir"
+
+#: twilio-php/tests/Twilio/Unit/TwiML/FaxResponseTest.php:11
+#: twilio-php/tests/Twilio/Unit/TwiML/MessagingResponseTest.php:11
+#: twilio-php/tests/Twilio/Unit/TwiML/VoiceResponseTest.php:11
+msgid "Hey no tags!"
+msgstr "Eh, pas de balises !"
+
+#: twilio-php/tests/Twilio/Unit/TwiML/FaxResponseTest.php:18
+#: twilio-php/tests/Twilio/Unit/TwiML/MessagingResponseTest.php:18
+#: twilio-php/tests/Twilio/Unit/TwiML/MessagingResponseTest.php:50
+#: twilio-php/tests/Twilio/Unit/TwiML/VoiceResponseTest.php:18
+msgid "before"
+msgstr "avant"
+
+#: twilio-php/tests/Twilio/Unit/TwiML/FaxResponseTest.php:21
+#: twilio-php/tests/Twilio/Unit/TwiML/FaxResponseTest.php:44
+msgid "Content"
+msgstr "Contenu"
+
+#: twilio-php/tests/Twilio/Unit/TwiML/FaxResponseTest.php:24
+#: twilio-php/tests/Twilio/Unit/TwiML/MessagingResponseTest.php:23
+#: twilio-php/tests/Twilio/Unit/TwiML/MessagingResponseTest.php:53
+#: twilio-php/tests/Twilio/Unit/TwiML/VoiceResponseTest.php:23
+msgid "after"
+msgstr "après"
+
+#: twilio-php/tests/Twilio/Unit/TwiML/MessagingResponseTest.php:51
+msgid "content"
+msgstr "contenu"

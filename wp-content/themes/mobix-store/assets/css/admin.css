@@ -1,0 +1,29 @@
+.block-wrap-inner {
+    border: solid 1px #eee !important;
+    border-radius: 15px !important;
+}
+.block-wrap-inner img {
+    width: 100% !important;
+}
+.social-box-wrap {
+    transform: rotate(-90deg) !important;
+    position: absolute !important;
+    bottom: 58% !important;
+    right: -80px !important;
+    gap: 0px !important;
+    width: 45% !important;
+}
+.social-box-wrap .wp-block-social-links .wp-block-social-link-anchor {
+    background: #000 !important;
+    border-radius: 25px !important;
+}
+.social-box-wrap .wp-social-link svg {
+    height: 20px !important;
+    width: 20px !important;
+    transform: rotate(90deg) !important;
+}
+.wp-block-fse-pro-header-social .social-controller, .wp-block-fse-pro-header-search .search-controller, .wp-block-social-links.is-style-logos-only .wp-social-link .wp-block-social-link-anchor {
+  padding: 5px !important;
+  width: auto !important;
+  height: auto !important;
+}

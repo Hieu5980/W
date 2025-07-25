@@ -1,0 +1,13 @@
+h3.accordion-section-title a {
+    color: #fff !important;
+    background: #000 !important;
+    border: #000 !important;
+}
+
+h3.accordion-section-title.premium-details {
+    background: var(--wp--preset--color--primary) !important;
+    color: #fff !important;
+}
+h3.accordion-section-title.premium-details::after {
+    display: none !important;
+}
