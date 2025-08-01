@@ -20,13 +20,13 @@
 
 // ** Database settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
-define( 'DB_NAME', 'project_wordpress' );
+define( 'DB_NAME', 'phonestore_db' );
 
 /** Database username */
 define( 'DB_USER', 'root' );
 
 /** Database password */
-define( 'DB_PASSWORD', '170389' );
+define( 'DB_PASSWORD', '' );
 
 /** Database hostname */
 define( 'DB_HOST', 'localhost' );
@@ -48,14 +48,14 @@ define( 'DB_COLLATE', '' );
  *
  * @since 2.6.0
  */
-define( 'AUTH_KEY',         'q&C!dR5Y6|aC)$cNSFg2#3g|<Y@McWrz1}i9:Mf([W~]qB&V-dy#w/<*%U0S &W^' );
-define( 'SECURE_AUTH_KEY',  '@l<{e`%+p8FpQEZ1BD%Ro~yN3=fjXaYEXwK8dp.%7Oy{O8Y8 >;4#oxg2Q+Ou4hA' );
-define( 'LOGGED_IN_KEY',    'B_Y:YZm?e>d/F+f!.TZVBD!P35 <$(DGkpDu%+.<Fe.z+1`)2s08EZkLz?skfqAV' );
-define( 'NONCE_KEY',        'aF$@1-wLe7l=0sfeJ&43DXxE%XH|A<Ilf1wr~Cxx-?li.l3<|,8@Ter>K(b+4=5f' );
-define( 'AUTH_SALT',        'y<gEU/!7.6z0J-:;tHa[[~)Gr+8:M[dx0uZTIG5#7XUs_/t1AUJTo;ytrf>~gG,a' );
-define( 'SECURE_AUTH_SALT', 'R_@4t{6Va|kC(7Vy]/lDuLpfsBtl:0nQ5pUk@MnN}Bk-Dd_Vwz,rI7z}- nS$E/R' );
-define( 'LOGGED_IN_SALT',   'OMu9E?<t$hS`Ui~[!U:0PzC;<i->xX]4[N3IQ%JWY.KZm#eVu#r>,8:[,8;gYW]^' );
-define( 'NONCE_SALT',       'aU,EF8a-U?X@*=pD?Yz$vwp`wHl`6fMIt5w&!FlgRdD*SsE2TOY1}#edjT`mJs_%' );
+define( 'AUTH_KEY',         'qdUQCUBu0ZT:u*r+- |x{;y!MbgBX.OfR6])>A]e$/su3RTX)-M35DV,kJ8flb-2' );
+define( 'SECURE_AUTH_KEY',  'lh[F:i]FsjzWM0|ZT4U?6hk-;,5D-MAnMaj8W37c.N[vUZ@A~}K|ezg@c=|=&256' );
+define( 'LOGGED_IN_KEY',    '|vox;h^|S%Yf]2jLlcX8Y;=5%hZDht}CT5V,dS]>?_Sb>q2f1YQV[kQy9Cwu+{[9' );
+define( 'NONCE_KEY',        '?<jA3%:k+P=?L2+UaR9st$};S>Rp*OMPe?%qZYW(PO Fgd+mEf,1S+}k(16C Df~' );
+define( 'AUTH_SALT',        'uL9E|Rk02L]IXGvCGB+HL4APD(6Twn9l%]^_&Q*+,Rv@rm@p/-H1NuP_Jv!^?x)#' );
+define( 'SECURE_AUTH_SALT', '$u@uftGb,z}BXP~ns?96~@bXm-uh/]An2{U+]60qY.&Cj?A% zJwmapo*sXL;m,I' );
+define( 'LOGGED_IN_SALT',   ']#&)TmMsX_3qop?EjP+qaWvh_$Ev][CVe;.j8zk74?0gRx7Noo755_*ju=`Znm=a' );
+define( 'NONCE_SALT',       's~N-;!~-.ED_!`i8sk/5k5.E`ErGhWKZ6L[=2#;x@Yvc)u1?UK`_wJxCjiFERU$1' );
 
 /**#@-*/
 
