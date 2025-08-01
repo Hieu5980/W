@@ -958,3 +958,943 @@
 4057.507 (7) Zip: backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins.zip.tmp: 20800 files added (on-disk size: 0 KB)
 4057.528 (7) Zip: backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins.zip.tmp: 20900 files added (on-disk size: 0 KB)
 4057.549 (7) Zip: backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins.zip.tmp: 21000 files added (on-disk size: 0 KB)
+4132.710 (7) PHP event: code E_WARNING: unlink(D:\xampp\htdocs\phonestore/wp-content/updraft/backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins.zip.tmp): Resource temporarily unavailable (line 2326, D:\xampp\htdocs\phonestore\wp-admin\includes\class-pclzip.php)
+4132.922 (7) PHP event: code E_WARNING: rename(D:\xampp\htdocs\phonestore/wp-content/updraft/pclzip-688c47aa58d23.tmp,D:\xampp\htdocs\phonestore/wp-content/updraft/backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins.zip.tmp): Access is denied (code: 5) (line 5659, D:\xampp\htdocs\phonestore\wp-admin\includes\class-pclzip.php)
+4133.247 (7) PHP event: code E_WARNING: copy(D:\xampp\htdocs\phonestore/wp-content/updraft/backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins.zip.tmp): Failed to open stream: Permission denied (line 5662, D:\xampp\htdocs\phonestore\wp-admin\includes\class-pclzip.php)
+4142.313 (7) PHP event: code E_WARNING: unlink(D:\xampp\htdocs\phonestore/wp-content/updraft/backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins.zip.tmp): Resource temporarily unavailable (line 2326, D:\xampp\htdocs\phonestore\wp-admin\includes\class-pclzip.php)
+4142.643 (7) PHP event: code E_WARNING: rename(D:\xampp\htdocs\phonestore/wp-content/updraft/pclzip-688c47b3efde2.tmp,D:\xampp\htdocs\phonestore/wp-content/updraft/backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins.zip.tmp): Access is denied (code: 5) (line 5659, D:\xampp\htdocs\phonestore\wp-admin\includes\class-pclzip.php)
+4142.794 (7) PHP event: code E_WARNING: copy(D:\xampp\htdocs\phonestore/wp-content/updraft/backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins.zip.tmp): Failed to open stream: Permission denied (line 5662, D:\xampp\htdocs\phonestore\wp-admin\includes\class-pclzip.php)
+4146.294 (7) PHP event: code E_WARNING: unlink(D:\xampp\htdocs\phonestore/wp-content/updraft/backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins.zip.tmp): Resource temporarily unavailable (line 2326, D:\xampp\htdocs\phonestore\wp-admin\includes\class-pclzip.php)
+4146.500 (7) PHP event: code E_WARNING: rename(D:\xampp\htdocs\phonestore/wp-content/updraft/pclzip-688c47b7b0915.tmp,D:\xampp\htdocs\phonestore/wp-content/updraft/backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins.zip.tmp): Access is denied (code: 5) (line 5659, D:\xampp\htdocs\phonestore\wp-admin\includes\class-pclzip.php)
+4146.504 (7) PHP event: code E_WARNING: copy(D:\xampp\htdocs\phonestore/wp-content/updraft/backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins.zip.tmp): Failed to open stream: Permission denied (line 5662, D:\xampp\htdocs\phonestore\wp-admin\includes\class-pclzip.php)
+4147.278 (7) PHP event: code E_WARNING: unlink(D:\xampp\htdocs\phonestore/wp-content/updraft/backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins.zip.tmp): Resource temporarily unavailable (line 2326, D:\xampp\htdocs\phonestore\wp-admin\includes\class-pclzip.php)
+4147.283 (7) PHP event: code E_WARNING: rename(D:\xampp\htdocs\phonestore/wp-content/updraft/pclzip-688c47b871eb6.tmp,D:\xampp\htdocs\phonestore/wp-content/updraft/backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins.zip.tmp): Access is denied (code: 5) (line 5659, D:\xampp\htdocs\phonestore\wp-admin\includes\class-pclzip.php)
+4147.286 (7) PHP event: code E_WARNING: copy(D:\xampp\htdocs\phonestore/wp-content/updraft/backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins.zip.tmp): Failed to open stream: Permission denied (line 5662, D:\xampp\htdocs\phonestore\wp-admin\includes\class-pclzip.php)
+4147.447 (7) PHP event: code E_WARNING: unlink(D:\xampp\htdocs\phonestore/wp-content/updraft/backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins.zip.tmp): Resource temporarily unavailable (line 2326, D:\xampp\htdocs\phonestore\wp-admin\includes\class-pclzip.php)
+4147.455 (7) PHP event: code E_WARNING: rename(D:\xampp\htdocs\phonestore/wp-content/updraft/pclzip-688c47b93cb51.tmp,D:\xampp\htdocs\phonestore/wp-content/updraft/backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins.zip.tmp): Access is denied (code: 5) (line 5659, D:\xampp\htdocs\phonestore\wp-admin\includes\class-pclzip.php)
+4147.463 (7) PHP event: code E_WARNING: copy(D:\xampp\htdocs\phonestore/wp-content/updraft/backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins.zip.tmp): Failed to open stream: Permission denied (line 5662, D:\xampp\htdocs\phonestore\wp-admin\includes\class-pclzip.php)
+4148.170 (7) PHP event: code E_WARNING: unlink(D:\xampp\htdocs\phonestore/wp-content/updraft/backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins.zip.tmp): Resource temporarily unavailable (line 2326, D:\xampp\htdocs\phonestore\wp-admin\includes\class-pclzip.php)
+4148.176 (7) PHP event: code E_WARNING: rename(D:\xampp\htdocs\phonestore/wp-content/updraft/pclzip-688c47b96990a.tmp,D:\xampp\htdocs\phonestore/wp-content/updraft/backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins.zip.tmp): Access is denied (code: 5) (line 5659, D:\xampp\htdocs\phonestore\wp-admin\includes\class-pclzip.php)
+4148.180 (7) PHP event: code E_WARNING: copy(D:\xampp\htdocs\phonestore/wp-content/updraft/backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins.zip.tmp): Failed to open stream: Permission denied (line 5662, D:\xampp\htdocs\phonestore\wp-admin\includes\class-pclzip.php)
+4150.491 (7) PHP event: code E_WARNING: unlink(D:\xampp\htdocs\phonestore/wp-content/updraft/backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins.zip.tmp): Resource temporarily unavailable (line 2326, D:\xampp\htdocs\phonestore\wp-admin\includes\class-pclzip.php)
+4150.715 (7) PHP event: code E_WARNING: rename(D:\xampp\htdocs\phonestore/wp-content/updraft/pclzip-688c47bc26037.tmp,D:\xampp\htdocs\phonestore/wp-content/updraft/backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins.zip.tmp): Access is denied (code: 5) (line 5659, D:\xampp\htdocs\phonestore\wp-admin\includes\class-pclzip.php)
+4150.948 (7) PHP event: code E_WARNING: copy(D:\xampp\htdocs\phonestore/wp-content/updraft/backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins.zip.tmp): Failed to open stream: Permission denied (line 5662, D:\xampp\htdocs\phonestore\wp-admin\includes\class-pclzip.php)
+4151.085 (7) PHP event: code E_WARNING: unlink(D:\xampp\htdocs\phonestore/wp-content/updraft/backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins.zip.tmp): Resource temporarily unavailable (line 2326, D:\xampp\htdocs\phonestore\wp-admin\includes\class-pclzip.php)
+4151.090 (7) PHP event: code E_WARNING: rename(D:\xampp\htdocs\phonestore/wp-content/updraft/pclzip-688c47bceae19.tmp,D:\xampp\htdocs\phonestore/wp-content/updraft/backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins.zip.tmp): Access is denied (code: 5) (line 5659, D:\xampp\htdocs\phonestore\wp-admin\includes\class-pclzip.php)
+4151.094 (7) PHP event: code E_WARNING: copy(D:\xampp\htdocs\phonestore/wp-content/updraft/backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins.zip.tmp): Failed to open stream: Permission denied (line 5662, D:\xampp\htdocs\phonestore\wp-admin\includes\class-pclzip.php)
+4167.755 (7) PHP event: code E_WARNING: unlink(D:\xampp\htdocs\phonestore/wp-content/updraft/backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins.zip.tmp): Resource temporarily unavailable (line 2326, D:\xampp\htdocs\phonestore\wp-admin\includes\class-pclzip.php)
+4167.762 (7) PHP event: code E_WARNING: rename(D:\xampp\htdocs\phonestore/wp-content/updraft/pclzip-688c47cd0eaa4.tmp,D:\xampp\htdocs\phonestore/wp-content/updraft/backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins.zip.tmp): Access is denied (code: 5) (line 5659, D:\xampp\htdocs\phonestore\wp-admin\includes\class-pclzip.php)
+4167.765 (7) PHP event: code E_WARNING: copy(D:\xampp\htdocs\phonestore/wp-content/updraft/backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins.zip.tmp): Failed to open stream: Permission denied (line 5662, D:\xampp\htdocs\phonestore\wp-admin\includes\class-pclzip.php)
+4168.100 (7) PHP event: code E_WARNING: unlink(D:\xampp\htdocs\phonestore/wp-content/updraft/backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins.zip.tmp): Resource temporarily unavailable (line 2326, D:\xampp\htdocs\phonestore\wp-admin\includes\class-pclzip.php)
+4168.216 (7) PHP event: code E_WARNING: rename(D:\xampp\htdocs\phonestore/wp-content/updraft/pclzip-688c47cdb1a64.tmp,D:\xampp\htdocs\phonestore/wp-content/updraft/backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins.zip.tmp): Access is denied (code: 5) (line 5659, D:\xampp\htdocs\phonestore\wp-admin\includes\class-pclzip.php)
+4168.220 (7) PHP event: code E_WARNING: copy(D:\xampp\htdocs\phonestore/wp-content/updraft/backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins.zip.tmp): Failed to open stream: Permission denied (line 5662, D:\xampp\htdocs\phonestore\wp-admin\includes\class-pclzip.php)
+4168.784 (7) PHP event: code E_WARNING: unlink(D:\xampp\htdocs\phonestore/wp-content/updraft/backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins.zip.tmp): Resource temporarily unavailable (line 2326, D:\xampp\htdocs\phonestore\wp-admin\includes\class-pclzip.php)
+4168.790 (7) PHP event: code E_WARNING: rename(D:\xampp\htdocs\phonestore/wp-content/updraft/pclzip-688c47ce2cd78.tmp,D:\xampp\htdocs\phonestore/wp-content/updraft/backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins.zip.tmp): Access is denied (code: 5) (line 5659, D:\xampp\htdocs\phonestore\wp-admin\includes\class-pclzip.php)
+4168.794 (7) PHP event: code E_WARNING: copy(D:\xampp\htdocs\phonestore/wp-content/updraft/backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins.zip.tmp): Failed to open stream: Permission denied (line 5662, D:\xampp\htdocs\phonestore\wp-admin\includes\class-pclzip.php)
+4169.071 (7) PHP event: code E_WARNING: unlink(D:\xampp\htdocs\phonestore/wp-content/updraft/backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins.zip.tmp): Resource temporarily unavailable (line 2326, D:\xampp\htdocs\phonestore\wp-admin\includes\class-pclzip.php)
+4169.077 (7) PHP event: code E_WARNING: rename(D:\xampp\htdocs\phonestore/wp-content/updraft/pclzip-688c47ceb8c34.tmp,D:\xampp\htdocs\phonestore/wp-content/updraft/backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins.zip.tmp): Access is denied (code: 5) (line 5659, D:\xampp\htdocs\phonestore\wp-admin\includes\class-pclzip.php)
+4169.081 (7) PHP event: code E_WARNING: copy(D:\xampp\htdocs\phonestore/wp-content/updraft/backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins.zip.tmp): Failed to open stream: Permission denied (line 5662, D:\xampp\htdocs\phonestore\wp-admin\includes\class-pclzip.php)
+4184.124 (7) PHP event: code E_WARNING: unlink(D:\xampp\htdocs\phonestore/wp-content/updraft/backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins.zip.tmp): Resource temporarily unavailable (line 2326, D:\xampp\htdocs\phonestore\wp-admin\includes\class-pclzip.php)
+4184.129 (7) PHP event: code E_WARNING: rename(D:\xampp\htdocs\phonestore/wp-content/updraft/pclzip-688c47dd3168e.tmp,D:\xampp\htdocs\phonestore/wp-content/updraft/backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins.zip.tmp): Access is denied (code: 5) (line 5659, D:\xampp\htdocs\phonestore\wp-admin\includes\class-pclzip.php)
+4184.134 (7) PHP event: code E_WARNING: copy(D:\xampp\htdocs\phonestore/wp-content/updraft/backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins.zip.tmp): Failed to open stream: Permission denied (line 5662, D:\xampp\htdocs\phonestore\wp-admin\includes\class-pclzip.php)
+4201.341 (7) PHP event: code E_WARNING: unlink(D:\xampp\htdocs\phonestore/wp-content/updraft/backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins.zip.tmp): Permission denied (line 2326, D:\xampp\htdocs\phonestore\wp-admin\includes\class-pclzip.php)
+4201.703 (7) PHP event: code E_WARNING: unlink(D:\xampp\htdocs\phonestore/wp-content/updraft/backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins.zip.tmp): Resource temporarily unavailable (line 2326, D:\xampp\htdocs\phonestore\wp-admin\includes\class-pclzip.php)
+4242.197 (7) PHP event: code E_WARNING: unlink(D:\xampp\htdocs\phonestore/wp-content/updraft/backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins.zip.tmp): Resource temporarily unavailable (line 2326, D:\xampp\htdocs\phonestore\wp-admin\includes\class-pclzip.php)
+4242.321 (7) PHP event: code E_WARNING: rename(D:\xampp\htdocs\phonestore/wp-content/updraft/pclzip-688c48180b72a.tmp,D:\xampp\htdocs\phonestore/wp-content/updraft/backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins.zip.tmp): Access is denied (code: 5) (line 5659, D:\xampp\htdocs\phonestore\wp-admin\includes\class-pclzip.php)
+4242.989 (7) PHP event: code E_WARNING: copy(D:\xampp\htdocs\phonestore/wp-content/updraft/backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins.zip.tmp): Failed to open stream: Permission denied (line 5662, D:\xampp\htdocs\phonestore\wp-admin\includes\class-pclzip.php)
+4243.805 (7) PHP event: code E_WARNING: unlink(D:\xampp\htdocs\phonestore/wp-content/updraft/backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins.zip.tmp): Resource temporarily unavailable (line 2326, D:\xampp\htdocs\phonestore\wp-admin\includes\class-pclzip.php)
+4243.809 (7) PHP event: code E_WARNING: rename(D:\xampp\htdocs\phonestore/wp-content/updraft/pclzip-688c48190e695.tmp,D:\xampp\htdocs\phonestore/wp-content/updraft/backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins.zip.tmp): Access is denied (code: 5) (line 5659, D:\xampp\htdocs\phonestore\wp-admin\includes\class-pclzip.php)
+4243.813 (7) PHP event: code E_WARNING: copy(D:\xampp\htdocs\phonestore/wp-content/updraft/backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins.zip.tmp): Failed to open stream: Permission denied (line 5662, D:\xampp\htdocs\phonestore\wp-admin\includes\class-pclzip.php)
+4243.941 (7) PHP event: code E_WARNING: unlink(D:\xampp\htdocs\phonestore/wp-content/updraft/backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins.zip.tmp): Resource temporarily unavailable (line 2326, D:\xampp\htdocs\phonestore\wp-admin\includes\class-pclzip.php)
+4243.945 (7) PHP event: code E_WARNING: rename(D:\xampp\htdocs\phonestore/wp-content/updraft/pclzip-688c4819bd5b6.tmp,D:\xampp\htdocs\phonestore/wp-content/updraft/backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins.zip.tmp): Access is denied (code: 5) (line 5659, D:\xampp\htdocs\phonestore\wp-admin\includes\class-pclzip.php)
+4243.948 (7) PHP event: code E_WARNING: copy(D:\xampp\htdocs\phonestore/wp-content/updraft/backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins.zip.tmp): Failed to open stream: Permission denied (line 5662, D:\xampp\htdocs\phonestore\wp-admin\includes\class-pclzip.php)
+4261.518 (7) PHP event: code E_WARNING: unlink(D:\xampp\htdocs\phonestore/wp-content/updraft/backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins.zip.tmp): Resource temporarily unavailable (line 2326, D:\xampp\htdocs\phonestore\wp-admin\includes\class-pclzip.php)
+4261.524 (7) PHP event: code E_WARNING: rename(D:\xampp\htdocs\phonestore/wp-content/updraft/pclzip-688c482a3aaab.tmp,D:\xampp\htdocs\phonestore/wp-content/updraft/backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins.zip.tmp): Access is denied (code: 5) (line 5659, D:\xampp\htdocs\phonestore\wp-admin\includes\class-pclzip.php)
+4261.528 (7) PHP event: code E_WARNING: copy(D:\xampp\htdocs\phonestore/wp-content/updraft/backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins.zip.tmp): Failed to open stream: Permission denied (line 5662, D:\xampp\htdocs\phonestore\wp-admin\includes\class-pclzip.php)
+4261.702 (7) PHP event: code E_WARNING: unlink(D:\xampp\htdocs\phonestore/wp-content/updraft/backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins.zip.tmp): Resource temporarily unavailable (line 2326, D:\xampp\htdocs\phonestore\wp-admin\includes\class-pclzip.php)
+4261.706 (7) PHP event: code E_WARNING: rename(D:\xampp\htdocs\phonestore/wp-content/updraft/pclzip-688c482b77ea2.tmp,D:\xampp\htdocs\phonestore/wp-content/updraft/backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins.zip.tmp): Access is denied (code: 5) (line 5659, D:\xampp\htdocs\phonestore\wp-admin\includes\class-pclzip.php)
+4261.710 (7) PHP event: code E_WARNING: copy(D:\xampp\htdocs\phonestore/wp-content/updraft/backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins.zip.tmp): Failed to open stream: Permission denied (line 5662, D:\xampp\htdocs\phonestore\wp-admin\includes\class-pclzip.php)
+4262.143 (7) PHP event: code E_WARNING: unlink(D:\xampp\htdocs\phonestore/wp-content/updraft/backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins.zip.tmp): Permission denied (line 2326, D:\xampp\htdocs\phonestore\wp-admin\includes\class-pclzip.php)
+4270.337 (7) PHP event: code E_WARNING: unlink(D:\xampp\htdocs\phonestore/wp-content/updraft/backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins.zip.tmp): Resource temporarily unavailable (line 2326, D:\xampp\htdocs\phonestore\wp-admin\includes\class-pclzip.php)
+4270.343 (7) PHP event: code E_WARNING: rename(D:\xampp\htdocs\phonestore/wp-content/updraft/pclzip-688c4833dc589.tmp,D:\xampp\htdocs\phonestore/wp-content/updraft/backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins.zip.tmp): Access is denied (code: 5) (line 5659, D:\xampp\htdocs\phonestore\wp-admin\includes\class-pclzip.php)
+4270.346 (7) PHP event: code E_WARNING: copy(D:\xampp\htdocs\phonestore/wp-content/updraft/backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins.zip.tmp): Failed to open stream: Permission denied (line 5662, D:\xampp\htdocs\phonestore\wp-admin\includes\class-pclzip.php)
+4330.879 (7) PHP event: code E_WARNING: unlink(D:\xampp\htdocs\phonestore/wp-content/updraft/backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins.zip.tmp): Permission denied (line 2326, D:\xampp\htdocs\phonestore\wp-admin\includes\class-pclzip.php)
+4331.066 (7) PHP event: code E_WARNING: unlink(D:\xampp\htdocs\phonestore/wp-content/updraft/backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins.zip.tmp): Resource temporarily unavailable (line 2326, D:\xampp\htdocs\phonestore\wp-admin\includes\class-pclzip.php)
+4331.075 (7) PHP event: code E_WARNING: rename(D:\xampp\htdocs\phonestore/wp-content/updraft/pclzip-688c4870d1d7d.tmp,D:\xampp\htdocs\phonestore/wp-content/updraft/backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins.zip.tmp): Access is denied (code: 5) (line 5659, D:\xampp\htdocs\phonestore\wp-admin\includes\class-pclzip.php)
+4331.086 (7) PHP event: code E_WARNING: copy(D:\xampp\htdocs\phonestore/wp-content/updraft/backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins.zip.tmp): Failed to open stream: Permission denied (line 5662, D:\xampp\htdocs\phonestore\wp-admin\includes\class-pclzip.php)
+4478.800 (7) PHP event: code E_WARNING: unlink(D:\xampp\htdocs\phonestore/wp-content/updraft/backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins.zip.tmp): Permission denied (line 2326, D:\xampp\htdocs\phonestore\wp-admin\includes\class-pclzip.php)
+4673.752 (7) PHP event: code E_WARNING: unlink(D:\xampp\htdocs\phonestore/wp-content/updraft/backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins.zip.tmp): Resource temporarily unavailable (line 2326, D:\xampp\htdocs\phonestore\wp-admin\includes\class-pclzip.php)
+4673.773 (7) PHP event: code E_WARNING: rename(D:\xampp\htdocs\phonestore/wp-content/updraft/pclzip-688c49c61f5f6.tmp,D:\xampp\htdocs\phonestore/wp-content/updraft/backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins.zip.tmp): Access is denied (code: 5) (line 5659, D:\xampp\htdocs\phonestore\wp-admin\includes\class-pclzip.php)
+4673.777 (7) PHP event: code E_WARNING: copy(D:\xampp\htdocs\phonestore/wp-content/updraft/backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins.zip.tmp): Failed to open stream: Permission denied (line 5662, D:\xampp\htdocs\phonestore\wp-admin\includes\class-pclzip.php)
+4673.939 (7) PHP event: code E_WARNING: unlink(D:\xampp\htdocs\phonestore/wp-content/updraft/backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins.zip.tmp): Resource temporarily unavailable (line 2326, D:\xampp\htdocs\phonestore\wp-admin\includes\class-pclzip.php)
+4673.943 (7) PHP event: code E_WARNING: rename(D:\xampp\htdocs\phonestore/wp-content/updraft/pclzip-688c49c7b4957.tmp,D:\xampp\htdocs\phonestore/wp-content/updraft/backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins.zip.tmp): Access is denied (code: 5) (line 5659, D:\xampp\htdocs\phonestore\wp-admin\includes\class-pclzip.php)
+4673.947 (7) PHP event: code E_WARNING: copy(D:\xampp\htdocs\phonestore/wp-content/updraft/backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins.zip.tmp): Failed to open stream: Permission denied (line 5662, D:\xampp\htdocs\phonestore\wp-admin\includes\class-pclzip.php)
+4675.010 (7) PHP event: code E_WARNING: unlink(D:\xampp\htdocs\phonestore/wp-content/updraft/backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins.zip.tmp): Resource temporarily unavailable (line 2326, D:\xampp\htdocs\phonestore\wp-admin\includes\class-pclzip.php)
+4675.017 (7) PHP event: code E_WARNING: rename(D:\xampp\htdocs\phonestore/wp-content/updraft/pclzip-688c49c7de56f.tmp,D:\xampp\htdocs\phonestore/wp-content/updraft/backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins.zip.tmp): Access is denied (code: 5) (line 5659, D:\xampp\htdocs\phonestore\wp-admin\includes\class-pclzip.php)
+4675.021 (7) PHP event: code E_WARNING: copy(D:\xampp\htdocs\phonestore/wp-content/updraft/backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins.zip.tmp): Failed to open stream: Permission denied (line 5662, D:\xampp\htdocs\phonestore\wp-admin\includes\class-pclzip.php)
+4676.041 (7) PHP event: code E_WARNING: unlink(D:\xampp\htdocs\phonestore/wp-content/updraft/backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins.zip.tmp): Resource temporarily unavailable (line 2326, D:\xampp\htdocs\phonestore\wp-admin\includes\class-pclzip.php)
+4676.047 (7) PHP event: code E_WARNING: rename(D:\xampp\htdocs\phonestore/wp-content/updraft/pclzip-688c49c8f01fb.tmp,D:\xampp\htdocs\phonestore/wp-content/updraft/backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins.zip.tmp): Access is denied (code: 5) (line 5659, D:\xampp\htdocs\phonestore\wp-admin\includes\class-pclzip.php)
+4676.051 (7) PHP event: code E_WARNING: copy(D:\xampp\htdocs\phonestore/wp-content/updraft/backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins.zip.tmp): Failed to open stream: Permission denied (line 5662, D:\xampp\htdocs\phonestore\wp-admin\includes\class-pclzip.php)
+4676.202 (7) PHP event: code E_WARNING: unlink(D:\xampp\htdocs\phonestore/wp-content/updraft/backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins.zip.tmp): Resource temporarily unavailable (line 2326, D:\xampp\htdocs\phonestore\wp-admin\includes\class-pclzip.php)
+4676.207 (7) PHP event: code E_WARNING: rename(D:\xampp\htdocs\phonestore/wp-content/updraft/pclzip-688c49ca035ff.tmp,D:\xampp\htdocs\phonestore/wp-content/updraft/backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins.zip.tmp): Access is denied (code: 5) (line 5659, D:\xampp\htdocs\phonestore\wp-admin\includes\class-pclzip.php)
+4676.210 (7) PHP event: code E_WARNING: copy(D:\xampp\htdocs\phonestore/wp-content/updraft/backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins.zip.tmp): Failed to open stream: Permission denied (line 5662, D:\xampp\htdocs\phonestore\wp-admin\includes\class-pclzip.php)
+4676.609 (7) PHP event: code E_WARNING: unlink(D:\xampp\htdocs\phonestore/wp-content/updraft/backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins.zip.tmp): Resource temporarily unavailable (line 2326, D:\xampp\htdocs\phonestore\wp-admin\includes\class-pclzip.php)
+4676.615 (7) PHP event: code E_WARNING: rename(D:\xampp\htdocs\phonestore/wp-content/updraft/pclzip-688c49ca2a0cc.tmp,D:\xampp\htdocs\phonestore/wp-content/updraft/backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins.zip.tmp): Access is denied (code: 5) (line 5659, D:\xampp\htdocs\phonestore\wp-admin\includes\class-pclzip.php)
+4676.619 (7) PHP event: code E_WARNING: copy(D:\xampp\htdocs\phonestore/wp-content/updraft/backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins.zip.tmp): Failed to open stream: Permission denied (line 5662, D:\xampp\htdocs\phonestore\wp-admin\includes\class-pclzip.php)
+4799.785 (7) PHP event: code E_WARNING: unlink(D:\xampp\htdocs\phonestore/wp-content/updraft/backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins.zip.tmp): Resource temporarily unavailable (line 2326, D:\xampp\htdocs\phonestore\wp-admin\includes\class-pclzip.php)
+4800.005 (7) PHP event: code E_WARNING: rename(D:\xampp\htdocs\phonestore/wp-content/updraft/pclzip-688c4a44a752d.tmp,D:\xampp\htdocs\phonestore/wp-content/updraft/backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins.zip.tmp): Access is denied (code: 5) (line 5659, D:\xampp\htdocs\phonestore\wp-admin\includes\class-pclzip.php)
+4800.025 (7) PHP event: code E_WARNING: copy(D:\xampp\htdocs\phonestore/wp-content/updraft/backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins.zip.tmp): Failed to open stream: Permission denied (line 5662, D:\xampp\htdocs\phonestore\wp-admin\includes\class-pclzip.php)
+4801.425 (7) PHP event: code E_WARNING: unlink(D:\xampp\htdocs\phonestore/wp-content/updraft/backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins.zip.tmp): Resource temporarily unavailable (line 2326, D:\xampp\htdocs\phonestore\wp-admin\includes\class-pclzip.php)
+4801.430 (7) PHP event: code E_WARNING: rename(D:\xampp\htdocs\phonestore/wp-content/updraft/pclzip-688c4a45f3b65.tmp,D:\xampp\htdocs\phonestore/wp-content/updraft/backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins.zip.tmp): Access is denied (code: 5) (line 5659, D:\xampp\htdocs\phonestore\wp-admin\includes\class-pclzip.php)
+4801.434 (7) PHP event: code E_WARNING: copy(D:\xampp\htdocs\phonestore/wp-content/updraft/backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins.zip.tmp): Failed to open stream: Permission denied (line 5662, D:\xampp\htdocs\phonestore\wp-admin\includes\class-pclzip.php)
+4802.582 (7) PHP event: code E_WARNING: unlink(D:\xampp\htdocs\phonestore/wp-content/updraft/backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins.zip.tmp): Resource temporarily unavailable (line 2326, D:\xampp\htdocs\phonestore\wp-admin\includes\class-pclzip.php)
+4802.588 (7) PHP event: code E_WARNING: rename(D:\xampp\htdocs\phonestore/wp-content/updraft/pclzip-688c4a4760d0f.tmp,D:\xampp\htdocs\phonestore/wp-content/updraft/backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins.zip.tmp): Access is denied (code: 5) (line 5659, D:\xampp\htdocs\phonestore\wp-admin\includes\class-pclzip.php)
+4802.592 (7) PHP event: code E_WARNING: copy(D:\xampp\htdocs\phonestore/wp-content/updraft/backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins.zip.tmp): Failed to open stream: Permission denied (line 5662, D:\xampp\htdocs\phonestore\wp-admin\includes\class-pclzip.php)
+4884.679 (8) Opened log file at time: Fri, 01 Aug 2025 05:03:22 +0000 on http://localhost/phonestore
+4884.685 (8) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.25.6 WP: 6.8.2 PHP: 8.2.12 (apache2handler, Windows NT LAPTOP-TUULVFNV 10.0 build 22631 (Windows 11) AMD64) MySQL: 10.4.32-MariaDB (max packet size=1048576) WPLANG: en_US Server: Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.2.12 safe_mode: 0 max_execution_time: 900 memory_limit: 512M (used: 111.9M | 114M) multisite: N openssl: OpenSSL 3.0.11 19 Sep 2023 mcrypt: N LANG:  WP Proxy: disabled ZipArchive::addFile: N
+4884.689 (8) Free space on disk containing Updraft's temporary directory: 148013.9 MB
+4884.693 (8) Requesting backup semaphore lock (ab9e0834aae0)
+4884.699 (8) [Info] Lock (updraft_lock_ab9e0834aae0, wp_options) acquired
+4884.706 (8) Backup run: resumption=8, nonce=ab9e0834aae0, file_nonce=ab9e0834aae0 begun at=1754019717 (4885s ago), job type=backup
+4884.713 (8) Scheduling a resumption (9) after 780 seconds (1754025382) in case this run gets aborted
+4884.727 (8) Checking if we have a zip executable available
+4884.732 (8) Zip engine: ZipArchive (a.k.a. php-zip) is not available or is disabled (will use PclZip (much slower) if needed)
+4884.736 (8) Creation of backups of directories: had begun; will resume
+4884.740 (8) Beginning creation of dump of plugins (split every: 400 MB)
+4884.747 (8) Deleting old temporary file: pclzip-688c47aa58d23.tmp
+4884.753 (8) Deleting old temporary file: pclzip-688c47b3efde2.tmp
+4884.754 (8) Deleting old temporary file: pclzip-688c47b7b0915.tmp
+4884.755 (8) Deleting old temporary file: pclzip-688c47b871eb6.tmp
+4884.756 (8) Deleting old temporary file: pclzip-688c47b93cb51.tmp
+4884.757 (8) Deleting old temporary file: pclzip-688c47b96990a.tmp
+4884.758 (8) Deleting old temporary file: pclzip-688c47bc26037.tmp
+4884.759 (8) Deleting old temporary file: pclzip-688c47bceae19.tmp
+4884.760 (8) Deleting old temporary file: pclzip-688c47cd0eaa4.tmp
+4884.760 (8) Deleting old temporary file: pclzip-688c47cdb1a64.tmp
+4884.761 (8) Deleting old temporary file: pclzip-688c47ce2cd78.tmp
+4884.762 (8) Deleting old temporary file: pclzip-688c47ceb8c34.tmp
+4884.763 (8) Deleting old temporary file: pclzip-688c47dd3168e.tmp
+4884.764 (8) Deleting old temporary file: pclzip-688c48180b72a.tmp
+4884.765 (8) Deleting old temporary file: pclzip-688c48190e695.tmp
+4884.770 (8) Deleting old temporary file: pclzip-688c4819bd5b6.tmp
+4884.774 (8) Deleting old temporary file: pclzip-688c482a3aaab.tmp
+4884.777 (8) Deleting old temporary file: pclzip-688c482b77ea2.tmp
+4884.784 (8) Deleting old temporary file: pclzip-688c4833dc589.tmp
+4885.188 (8) Terminate: backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins.zip.tmp exists with activity within the last 30 seconds (time_mod=1754024600, time_now=1754024602, diff=2, size=n/a). This likely means that another UpdraftPlus run is at work; so we will exit.
+4885.197 (8) Rescheduling resumption 9: moving to 900 seconds from now (1754025503)
+4885.210 (8) To decrease the likelihood of overlaps, increasing resumption interval to: 780 + 120 = 900
+5814.406 (9) Opened log file at time: Fri, 01 Aug 2025 05:18:52 +0000 on http://localhost/phonestore
+5814.409 (9) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.25.6 WP: 6.8.2 PHP: 8.2.12 (apache2handler, Windows NT LAPTOP-TUULVFNV 10.0 build 22631 (Windows 11) AMD64) MySQL: 10.4.32-MariaDB (max packet size=1048576) WPLANG: en_US Server: Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.2.12 safe_mode: 0 max_execution_time: 900 memory_limit: 512M (used: 111.9M | 126M) multisite: N openssl: OpenSSL 3.0.11 19 Sep 2023 mcrypt: N LANG:  WP Proxy: disabled ZipArchive::addFile: N
+5814.410 (9) Free space on disk containing Updraft's temporary directory: 149959.1 MB
+5814.412 (9) Requesting backup semaphore lock (ab9e0834aae0)
+5814.415 (9) [Info] Lock (updraft_lock_ab9e0834aae0, wp_options) acquired
+5814.418 (9) Backup run: resumption=9, nonce=ab9e0834aae0, file_nonce=ab9e0834aae0 begun at=1754019717 (5815s ago), job type=backup, previous check-in=0.5s
+5814.421 (9) The current run is resumption number 9, and there was nothing useful done on the last run (last useful run: 0) - will not schedule a further attempt until we see something useful happening this time
+5814.424 (9) Scheduling a resumption (10) after 900 seconds (1754026432); but the job will then be aborted unless something happens this time
+5814.434 (9) Zip engine: ZipArchive (a.k.a. php-zip) is not available or is disabled (will use PclZip (much slower) if needed)
+5814.436 (9) Creation of backups of directories: had begun; will resume
+5814.438 (9) Beginning creation of dump of plugins (split every: 400 MB)
+5814.441 (9) Deleting old temporary file: pclzip-688c4870d1d7d.tmp
+5814.454 (9) Deleting old temporary file: pclzip-688c49c61f5f6.tmp
+5814.468 (9) Deleting old temporary file: pclzip-688c49c7b4957.tmp
+5814.473 (9) Deleting old temporary file: pclzip-688c49c7de56f.tmp
+5814.475 (9) Deleting old temporary file: pclzip-688c49c8f01fb.tmp
+5814.478 (9) Deleting old temporary file: pclzip-688c49ca035ff.tmp
+5814.481 (9) Deleting old temporary file: pclzip-688c49ca2a0cc.tmp
+5814.483 (9) Deleting old temporary file: pclzip-688c4a44a752d.tmp
+5814.489 (9) Deleting old temporary file: pclzip-688c4a45f3b65.tmp
+5814.492 (9) Deleting old temporary file: pclzip-688c4a4760d0f.tmp
+5814.495 (9) Deleting old temporary file: pclzip-688c4adc27e66.tmp
+5814.499 (9) File exists (D:\xampp\htdocs\phonestore/wp-content/updraft/backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins.zip.tmp), but was not modified within the last 30 seconds, so we assume that any previous run has now terminated (time_mod=1754024667, time_now=1754025532, diff=865)
+5814.594 (9) backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins.zip.tmp: Zip file already exists, with 16947 files
+5814.601 (9) No check-in on last two runs; bumping index and reducing zip split to: 200 MB
+5815.370 (9) Creating zip file manifest (backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins.zip.list-temp.tmp)
+5815.402 (9) Successfully created zip file manifest (size: 1680100)
+5815.410 (9) Created plugins zip (0) - 88486.3 KB in 0.1 s (797863.8 KB/s) (checksums: sha1: 812229341fe6b2ab128a616301f930f5c0db003f, sha256: d7c54ff374ee52dca8cc514f4cf3010292352034694f6db17b46ae40ab730210)
+5815.432 (9) Cloud backup selection (1/1): googledrive with instance (1/1) (last)
+5815.436 (9) Beginning dispatch of backup to remote (googledrive) (instance identifier s-6dbe0820faa350eb384ba206fef28b09)
+5817.351 (9) Google Drive: creating path: /UpdraftPlus
+5818.961 (9) Google Drive: quota usage: used=12530.4 MB, total=255032320 MB, available=255019789.6 MB
+5818.963 (9) Google Drive: backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins.zip: Attempting to upload to Google Drive (into folder id: 1KdlW2vSWuwnNmaqI8dAXXe4Xrb9jmG8Z)
+5821.186 (9) Googledrive chunked upload: 1.2 % uploaded (1048576 - increasing chunk size to 2048 KB - memory usage: 121.5 / 140)
+5822.501 (9) Googledrive chunked upload: 3.5 % uploaded (3145728 - increasing chunk size to 4096 KB - memory usage: 121.5 / 140)
+5824.428 (9) Googledrive chunked upload: 8.1 % uploaded (7340032 - increasing chunk size to 8192 KB - memory usage: 121.5 / 140)
+5827.533 (9) Googledrive chunked upload: 17.4 % uploaded (15728640)
+5830.545 (9) Googledrive chunked upload: 26.6 % uploaded (24117248)
+5833.468 (9) Googledrive chunked upload: 35.9 % uploaded (32505856)
+5836.439 (9) Googledrive chunked upload: 45.1 % uploaded (40894464)
+5839.041 (9) Googledrive chunked upload: 54.4 % uploaded (49283072)
+5841.956 (9) Googledrive chunked upload: 63.6 % uploaded (57671680)
+5844.828 (9) Googledrive chunked upload: 72.9 % uploaded (66060288)
+5847.683 (9) Googledrive chunked upload: 82.2 % uploaded (74448896)
+5850.436 (9) Googledrive chunked upload: 91.4 % uploaded (82837504)
+5854.487 (9) Googledrive chunked upload: 100 % uploaded (82837504)
+5854.495 (9) Google Drive: OK: Archive backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins.zip uploaded in 35.53 seconds
+5854.497 (9) Recording as successfully uploaded: backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins.zip
+5854.514 (9) Deleting local file: backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins.zip: OK
+5858.761 (9) Total entities for the zip file: 3401 directories, 21087 files (0 skipped as non-modified), 241.6 MB
+5858.769 (9) PHP event: code E_WARNING: filesize(): stat failed for D:\xampp\htdocs\phonestore/wp-content/updraft/backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins2.zip.tmp (line 4292, D:\xampp\htdocs\phonestore\wp-content\plugins\updraftplus\backup.php)
+5858.771 (9) Zip: backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins2.zip.tmp: 100 files added (on-disk size: 0 KB)
+5858.775 (9) PHP event: code E_WARNING: filesize(): stat failed for D:\xampp\htdocs\phonestore/wp-content/updraft/backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins2.zip.tmp (line 4292, D:\xampp\htdocs\phonestore\wp-content\plugins\updraftplus\backup.php)
+5858.775 (9) Zip: backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins2.zip.tmp: 200 files added (on-disk size: 0 KB)
+5858.779 (9) PHP event: code E_WARNING: filesize(): stat failed for D:\xampp\htdocs\phonestore/wp-content/updraft/backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins2.zip.tmp (line 4292, D:\xampp\htdocs\phonestore\wp-content\plugins\updraftplus\backup.php)
+5858.779 (9) Zip: backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins2.zip.tmp: 300 files added (on-disk size: 0 KB)
+5858.783 (9) PHP event: code E_WARNING: filesize(): stat failed for D:\xampp\htdocs\phonestore/wp-content/updraft/backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins2.zip.tmp (line 4292, D:\xampp\htdocs\phonestore\wp-content\plugins\updraftplus\backup.php)
+5858.784 (9) Zip: backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins2.zip.tmp: 400 files added (on-disk size: 0 KB)
+5858.788 (9) PHP event: code E_WARNING: filesize(): stat failed for D:\xampp\htdocs\phonestore/wp-content/updraft/backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins2.zip.tmp (line 4292, D:\xampp\htdocs\phonestore\wp-content\plugins\updraftplus\backup.php)
+5858.788 (9) Zip: backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins2.zip.tmp: 500 files added (on-disk size: 0 KB)
+5858.792 (9) PHP event: code E_WARNING: filesize(): stat failed for D:\xampp\htdocs\phonestore/wp-content/updraft/backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins2.zip.tmp (line 4292, D:\xampp\htdocs\phonestore\wp-content\plugins\updraftplus\backup.php)
+5858.792 (9) Zip: backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins2.zip.tmp: 600 files added (on-disk size: 0 KB)
+5858.796 (9) PHP event: code E_WARNING: filesize(): stat failed for D:\xampp\htdocs\phonestore/wp-content/updraft/backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins2.zip.tmp (line 4292, D:\xampp\htdocs\phonestore\wp-content\plugins\updraftplus\backup.php)
+5858.796 (9) Zip: backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins2.zip.tmp: 700 files added (on-disk size: 0 KB)
+5858.799 (9) PHP event: code E_WARNING: filesize(): stat failed for D:\xampp\htdocs\phonestore/wp-content/updraft/backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins2.zip.tmp (line 4292, D:\xampp\htdocs\phonestore\wp-content\plugins\updraftplus\backup.php)
+5858.799 (9) Zip: backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins2.zip.tmp: 800 files added (on-disk size: 0 KB)
+5858.804 (9) PHP event: code E_WARNING: filesize(): stat failed for D:\xampp\htdocs\phonestore/wp-content/updraft/backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins2.zip.tmp (line 4292, D:\xampp\htdocs\phonestore\wp-content\plugins\updraftplus\backup.php)
+5858.804 (9) Zip: backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins2.zip.tmp: 900 files added (on-disk size: 0 KB)
+5858.807 (9) PHP event: code E_WARNING: filesize(): stat failed for D:\xampp\htdocs\phonestore/wp-content/updraft/backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins2.zip.tmp (line 4292, D:\xampp\htdocs\phonestore\wp-content\plugins\updraftplus\backup.php)
+5858.807 (9) Zip: backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins2.zip.tmp: 1000 files added (on-disk size: 0 KB)
+5858.812 (9) PHP event: code E_WARNING: filesize(): stat failed for D:\xampp\htdocs\phonestore/wp-content/updraft/backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins2.zip.tmp (line 4292, D:\xampp\htdocs\phonestore\wp-content\plugins\updraftplus\backup.php)
+5858.814 (9) Zip: backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins2.zip.tmp: 1100 files added (on-disk size: 0 KB)
+5858.818 (9) PHP event: code E_WARNING: filesize(): stat failed for D:\xampp\htdocs\phonestore/wp-content/updraft/backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins2.zip.tmp (line 4292, D:\xampp\htdocs\phonestore\wp-content\plugins\updraftplus\backup.php)
+5858.818 (9) Zip: backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins2.zip.tmp: 1200 files added (on-disk size: 0 KB)
+5858.823 (9) PHP event: code E_WARNING: filesize(): stat failed for D:\xampp\htdocs\phonestore/wp-content/updraft/backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins2.zip.tmp (line 4292, D:\xampp\htdocs\phonestore\wp-content\plugins\updraftplus\backup.php)
+5858.823 (9) Zip: backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins2.zip.tmp: 1300 files added (on-disk size: 0 KB)
+5858.827 (9) PHP event: code E_WARNING: filesize(): stat failed for D:\xampp\htdocs\phonestore/wp-content/updraft/backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins2.zip.tmp (line 4292, D:\xampp\htdocs\phonestore\wp-content\plugins\updraftplus\backup.php)
+5858.827 (9) Zip: backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins2.zip.tmp: 1400 files added (on-disk size: 0 KB)
+5858.831 (9) PHP event: code E_WARNING: filesize(): stat failed for D:\xampp\htdocs\phonestore/wp-content/updraft/backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins2.zip.tmp (line 4292, D:\xampp\htdocs\phonestore\wp-content\plugins\updraftplus\backup.php)
+5858.832 (9) Zip: backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins2.zip.tmp: 1500 files added (on-disk size: 0 KB)
+5858.836 (9) PHP event: code E_WARNING: filesize(): stat failed for D:\xampp\htdocs\phonestore/wp-content/updraft/backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins2.zip.tmp (line 4292, D:\xampp\htdocs\phonestore\wp-content\plugins\updraftplus\backup.php)
+5858.836 (9) Zip: backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins2.zip.tmp: 1600 files added (on-disk size: 0 KB)
+5858.840 (9) PHP event: code E_WARNING: filesize(): stat failed for D:\xampp\htdocs\phonestore/wp-content/updraft/backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins2.zip.tmp (line 4292, D:\xampp\htdocs\phonestore\wp-content\plugins\updraftplus\backup.php)
+5858.840 (9) Zip: backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins2.zip.tmp: 1700 files added (on-disk size: 0 KB)
+5858.844 (9) PHP event: code E_WARNING: filesize(): stat failed for D:\xampp\htdocs\phonestore/wp-content/updraft/backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins2.zip.tmp (line 4292, D:\xampp\htdocs\phonestore\wp-content\plugins\updraftplus\backup.php)
+5858.844 (9) Zip: backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins2.zip.tmp: 1800 files added (on-disk size: 0 KB)
+5858.849 (9) PHP event: code E_WARNING: filesize(): stat failed for D:\xampp\htdocs\phonestore/wp-content/updraft/backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins2.zip.tmp (line 4292, D:\xampp\htdocs\phonestore\wp-content\plugins\updraftplus\backup.php)
+5858.849 (9) Zip: backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins2.zip.tmp: 1900 files added (on-disk size: 0 KB)
+5858.853 (9) PHP event: code E_WARNING: filesize(): stat failed for D:\xampp\htdocs\phonestore/wp-content/updraft/backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins2.zip.tmp (line 4292, D:\xampp\htdocs\phonestore\wp-content\plugins\updraftplus\backup.php)
+5858.853 (9) Zip: backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins2.zip.tmp: 2000 files added (on-disk size: 0 KB)
+5858.860 (9) PHP event: code E_WARNING: filesize(): stat failed for D:\xampp\htdocs\phonestore/wp-content/updraft/backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins2.zip.tmp (line 4292, D:\xampp\htdocs\phonestore\wp-content\plugins\updraftplus\backup.php)
+5858.861 (9) Zip: backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins2.zip.tmp: 2100 files added (on-disk size: 0 KB)
+5858.866 (9) PHP event: code E_WARNING: filesize(): stat failed for D:\xampp\htdocs\phonestore/wp-content/updraft/backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins2.zip.tmp (line 4292, D:\xampp\htdocs\phonestore\wp-content\plugins\updraftplus\backup.php)
+5858.866 (9) Zip: backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins2.zip.tmp: 2200 files added (on-disk size: 0 KB)
+5858.871 (9) PHP event: code E_WARNING: filesize(): stat failed for D:\xampp\htdocs\phonestore/wp-content/updraft/backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins2.zip.tmp (line 4292, D:\xampp\htdocs\phonestore\wp-content\plugins\updraftplus\backup.php)
+5858.871 (9) Zip: backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins2.zip.tmp: 2300 files added (on-disk size: 0 KB)
+5858.875 (9) PHP event: code E_WARNING: filesize(): stat failed for D:\xampp\htdocs\phonestore/wp-content/updraft/backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins2.zip.tmp (line 4292, D:\xampp\htdocs\phonestore\wp-content\plugins\updraftplus\backup.php)
+5858.875 (9) Zip: backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins2.zip.tmp: 2400 files added (on-disk size: 0 KB)
+5858.880 (9) PHP event: code E_WARNING: filesize(): stat failed for D:\xampp\htdocs\phonestore/wp-content/updraft/backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins2.zip.tmp (line 4292, D:\xampp\htdocs\phonestore\wp-content\plugins\updraftplus\backup.php)
+5858.880 (9) Zip: backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins2.zip.tmp: 2500 files added (on-disk size: 0 KB)
+5858.886 (9) PHP event: code E_WARNING: filesize(): stat failed for D:\xampp\htdocs\phonestore/wp-content/updraft/backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins2.zip.tmp (line 4292, D:\xampp\htdocs\phonestore\wp-content\plugins\updraftplus\backup.php)
+5858.886 (9) Zip: backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins2.zip.tmp: 2600 files added (on-disk size: 0 KB)
+5858.891 (9) PHP event: code E_WARNING: filesize(): stat failed for D:\xampp\htdocs\phonestore/wp-content/updraft/backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins2.zip.tmp (line 4292, D:\xampp\htdocs\phonestore\wp-content\plugins\updraftplus\backup.php)
+5858.891 (9) Zip: backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins2.zip.tmp: 2700 files added (on-disk size: 0 KB)
+5858.896 (9) PHP event: code E_WARNING: filesize(): stat failed for D:\xampp\htdocs\phonestore/wp-content/updraft/backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins2.zip.tmp (line 4292, D:\xampp\htdocs\phonestore\wp-content\plugins\updraftplus\backup.php)
+5858.896 (9) Zip: backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins2.zip.tmp: 2800 files added (on-disk size: 0 KB)
+5858.901 (9) PHP event: code E_WARNING: filesize(): stat failed for D:\xampp\htdocs\phonestore/wp-content/updraft/backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins2.zip.tmp (line 4292, D:\xampp\htdocs\phonestore\wp-content\plugins\updraftplus\backup.php)
+5858.901 (9) Zip: backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins2.zip.tmp: 2900 files added (on-disk size: 0 KB)
+5858.907 (9) PHP event: code E_WARNING: filesize(): stat failed for D:\xampp\htdocs\phonestore/wp-content/updraft/backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins2.zip.tmp (line 4292, D:\xampp\htdocs\phonestore\wp-content\plugins\updraftplus\backup.php)
+5858.907 (9) Zip: backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins2.zip.tmp: 3000 files added (on-disk size: 0 KB)
+5858.916 (9) PHP event: code E_WARNING: filesize(): stat failed for D:\xampp\htdocs\phonestore/wp-content/updraft/backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins2.zip.tmp (line 4292, D:\xampp\htdocs\phonestore\wp-content\plugins\updraftplus\backup.php)
+5858.918 (9) Zip: backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins2.zip.tmp: 3100 files added (on-disk size: 0 KB)
+5858.924 (9) PHP event: code E_WARNING: filesize(): stat failed for D:\xampp\htdocs\phonestore/wp-content/updraft/backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins2.zip.tmp (line 4292, D:\xampp\htdocs\phonestore\wp-content\plugins\updraftplus\backup.php)
+5858.924 (9) Zip: backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins2.zip.tmp: 3200 files added (on-disk size: 0 KB)
+5858.931 (9) PHP event: code E_WARNING: filesize(): stat failed for D:\xampp\htdocs\phonestore/wp-content/updraft/backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins2.zip.tmp (line 4292, D:\xampp\htdocs\phonestore\wp-content\plugins\updraftplus\backup.php)
+5858.931 (9) Zip: backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins2.zip.tmp: 3300 files added (on-disk size: 0 KB)
+5858.938 (9) PHP event: code E_WARNING: filesize(): stat failed for D:\xampp\htdocs\phonestore/wp-content/updraft/backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins2.zip.tmp (line 4292, D:\xampp\htdocs\phonestore\wp-content\plugins\updraftplus\backup.php)
+5858.939 (9) Zip: backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins2.zip.tmp: 3400 files added (on-disk size: 0 KB)
+5858.946 (9) PHP event: code E_WARNING: filesize(): stat failed for D:\xampp\htdocs\phonestore/wp-content/updraft/backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins2.zip.tmp (line 4292, D:\xampp\htdocs\phonestore\wp-content\plugins\updraftplus\backup.php)
+5858.946 (9) Zip: backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins2.zip.tmp: 3500 files added (on-disk size: 0 KB)
+5858.954 (9) PHP event: code E_WARNING: filesize(): stat failed for D:\xampp\htdocs\phonestore/wp-content/updraft/backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins2.zip.tmp (line 4292, D:\xampp\htdocs\phonestore\wp-content\plugins\updraftplus\backup.php)
+5858.954 (9) Zip: backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins2.zip.tmp: 3600 files added (on-disk size: 0 KB)
+5858.961 (9) PHP event: code E_WARNING: filesize(): stat failed for D:\xampp\htdocs\phonestore/wp-content/updraft/backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins2.zip.tmp (line 4292, D:\xampp\htdocs\phonestore\wp-content\plugins\updraftplus\backup.php)
+5858.961 (9) Zip: backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins2.zip.tmp: 3700 files added (on-disk size: 0 KB)
+5858.966 (9) PHP event: code E_WARNING: filesize(): stat failed for D:\xampp\htdocs\phonestore/wp-content/updraft/backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins2.zip.tmp (line 4292, D:\xampp\htdocs\phonestore\wp-content\plugins\updraftplus\backup.php)
+5858.967 (9) Zip: backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins2.zip.tmp: 3800 files added (on-disk size: 0 KB)
+5858.972 (9) PHP event: code E_WARNING: filesize(): stat failed for D:\xampp\htdocs\phonestore/wp-content/updraft/backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins2.zip.tmp (line 4292, D:\xampp\htdocs\phonestore\wp-content\plugins\updraftplus\backup.php)
+5858.972 (9) Zip: backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins2.zip.tmp: 3900 files added (on-disk size: 0 KB)
+5858.977 (9) PHP event: code E_WARNING: filesize(): stat failed for D:\xampp\htdocs\phonestore/wp-content/updraft/backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins2.zip.tmp (line 4292, D:\xampp\htdocs\phonestore\wp-content\plugins\updraftplus\backup.php)
+5858.977 (9) Zip: backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins2.zip.tmp: 4000 files added (on-disk size: 0 KB)
+5858.984 (9) PHP event: code E_WARNING: filesize(): stat failed for D:\xampp\htdocs\phonestore/wp-content/updraft/backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins2.zip.tmp (line 4292, D:\xampp\htdocs\phonestore\wp-content\plugins\updraftplus\backup.php)
+5858.986 (9) Zip: backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins2.zip.tmp: 4100 files added (on-disk size: 0 KB)
+5858.990 (9) PHP event: code E_WARNING: filesize(): stat failed for D:\xampp\htdocs\phonestore/wp-content/updraft/backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins2.zip.tmp (line 4292, D:\xampp\htdocs\phonestore\wp-content\plugins\updraftplus\backup.php)
+5858.991 (9) Zip: backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins2.zip.tmp: 4200 files added (on-disk size: 0 KB)
+5858.995 (9) PHP event: code E_WARNING: filesize(): stat failed for D:\xampp\htdocs\phonestore/wp-content/updraft/backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins2.zip.tmp (line 4292, D:\xampp\htdocs\phonestore\wp-content\plugins\updraftplus\backup.php)
+5858.995 (9) Zip: backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins2.zip.tmp: 4300 files added (on-disk size: 0 KB)
+5859.000 (9) PHP event: code E_WARNING: filesize(): stat failed for D:\xampp\htdocs\phonestore/wp-content/updraft/backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins2.zip.tmp (line 4292, D:\xampp\htdocs\phonestore\wp-content\plugins\updraftplus\backup.php)
+5859.000 (9) Zip: backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins2.zip.tmp: 4400 files added (on-disk size: 0 KB)
+5859.005 (9) PHP event: code E_WARNING: filesize(): stat failed for D:\xampp\htdocs\phonestore/wp-content/updraft/backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins2.zip.tmp (line 4292, D:\xampp\htdocs\phonestore\wp-content\plugins\updraftplus\backup.php)
+5859.005 (9) Zip: backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins2.zip.tmp: 4500 files added (on-disk size: 0 KB)
+5859.010 (9) PHP event: code E_WARNING: filesize(): stat failed for D:\xampp\htdocs\phonestore/wp-content/updraft/backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins2.zip.tmp (line 4292, D:\xampp\htdocs\phonestore\wp-content\plugins\updraftplus\backup.php)
+5859.010 (9) Zip: backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins2.zip.tmp: 4600 files added (on-disk size: 0 KB)
+5859.015 (9) PHP event: code E_WARNING: filesize(): stat failed for D:\xampp\htdocs\phonestore/wp-content/updraft/backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins2.zip.tmp (line 4292, D:\xampp\htdocs\phonestore\wp-content\plugins\updraftplus\backup.php)
+5859.015 (9) Zip: backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins2.zip.tmp: 4700 files added (on-disk size: 0 KB)
+5859.022 (9) PHP event: code E_WARNING: filesize(): stat failed for D:\xampp\htdocs\phonestore/wp-content/updraft/backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins2.zip.tmp (line 4292, D:\xampp\htdocs\phonestore\wp-content\plugins\updraftplus\backup.php)
+5859.022 (9) Zip: backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins2.zip.tmp: 4800 files added (on-disk size: 0 KB)
+5859.027 (9) PHP event: code E_WARNING: filesize(): stat failed for D:\xampp\htdocs\phonestore/wp-content/updraft/backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins2.zip.tmp (line 4292, D:\xampp\htdocs\phonestore\wp-content\plugins\updraftplus\backup.php)
+5859.027 (9) Zip: backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins2.zip.tmp: 4900 files added (on-disk size: 0 KB)
+5859.032 (9) PHP event: code E_WARNING: filesize(): stat failed for D:\xampp\htdocs\phonestore/wp-content/updraft/backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins2.zip.tmp (line 4292, D:\xampp\htdocs\phonestore\wp-content\plugins\updraftplus\backup.php)
+5859.032 (9) Zip: backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins2.zip.tmp: 5000 files added (on-disk size: 0 KB)
+5859.038 (9) PHP event: code E_WARNING: filesize(): stat failed for D:\xampp\htdocs\phonestore/wp-content/updraft/backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins2.zip.tmp (line 4292, D:\xampp\htdocs\phonestore\wp-content\plugins\updraftplus\backup.php)
+5859.039 (9) Zip: backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins2.zip.tmp: 5100 files added (on-disk size: 0 KB)
+5859.045 (9) PHP event: code E_WARNING: filesize(): stat failed for D:\xampp\htdocs\phonestore/wp-content/updraft/backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins2.zip.tmp (line 4292, D:\xampp\htdocs\phonestore\wp-content\plugins\updraftplus\backup.php)
+5859.047 (9) Zip: backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins2.zip.tmp: 5200 files added (on-disk size: 0 KB)
+5859.059 (9) PHP event: code E_WARNING: filesize(): stat failed for D:\xampp\htdocs\phonestore/wp-content/updraft/backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins2.zip.tmp (line 4292, D:\xampp\htdocs\phonestore\wp-content\plugins\updraftplus\backup.php)
+5859.059 (9) Zip: backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins2.zip.tmp: 5300 files added (on-disk size: 0 KB)
+5859.063 (9) PHP event: code E_WARNING: filesize(): stat failed for D:\xampp\htdocs\phonestore/wp-content/updraft/backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins2.zip.tmp (line 4292, D:\xampp\htdocs\phonestore\wp-content\plugins\updraftplus\backup.php)
+5859.063 (9) Zip: backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins2.zip.tmp: 5400 files added (on-disk size: 0 KB)
+5859.068 (9) PHP event: code E_WARNING: filesize(): stat failed for D:\xampp\htdocs\phonestore/wp-content/updraft/backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins2.zip.tmp (line 4292, D:\xampp\htdocs\phonestore\wp-content\plugins\updraftplus\backup.php)
+5859.068 (9) Zip: backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins2.zip.tmp: 5500 files added (on-disk size: 0 KB)
+5859.073 (9) PHP event: code E_WARNING: filesize(): stat failed for D:\xampp\htdocs\phonestore/wp-content/updraft/backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins2.zip.tmp (line 4292, D:\xampp\htdocs\phonestore\wp-content\plugins\updraftplus\backup.php)
+5859.073 (9) Zip: backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins2.zip.tmp: 5600 files added (on-disk size: 0 KB)
+5859.080 (9) PHP event: code E_WARNING: filesize(): stat failed for D:\xampp\htdocs\phonestore/wp-content/updraft/backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins2.zip.tmp (line 4292, D:\xampp\htdocs\phonestore\wp-content\plugins\updraftplus\backup.php)
+5859.080 (9) Zip: backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins2.zip.tmp: 5700 files added (on-disk size: 0 KB)
+5859.085 (9) PHP event: code E_WARNING: filesize(): stat failed for D:\xampp\htdocs\phonestore/wp-content/updraft/backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins2.zip.tmp (line 4292, D:\xampp\htdocs\phonestore\wp-content\plugins\updraftplus\backup.php)
+5859.085 (9) Zip: backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins2.zip.tmp: 5800 files added (on-disk size: 0 KB)
+5859.090 (9) PHP event: code E_WARNING: filesize(): stat failed for D:\xampp\htdocs\phonestore/wp-content/updraft/backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins2.zip.tmp (line 4292, D:\xampp\htdocs\phonestore\wp-content\plugins\updraftplus\backup.php)
+5859.090 (9) Zip: backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins2.zip.tmp: 5900 files added (on-disk size: 0 KB)
+5859.095 (9) PHP event: code E_WARNING: filesize(): stat failed for D:\xampp\htdocs\phonestore/wp-content/updraft/backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins2.zip.tmp (line 4292, D:\xampp\htdocs\phonestore\wp-content\plugins\updraftplus\backup.php)
+5859.095 (9) Zip: backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins2.zip.tmp: 6000 files added (on-disk size: 0 KB)
+5859.102 (9) PHP event: code E_WARNING: filesize(): stat failed for D:\xampp\htdocs\phonestore/wp-content/updraft/backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins2.zip.tmp (line 4292, D:\xampp\htdocs\phonestore\wp-content\plugins\updraftplus\backup.php)
+5859.104 (9) Zip: backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins2.zip.tmp: 6100 files added (on-disk size: 0 KB)
+5859.110 (9) PHP event: code E_WARNING: filesize(): stat failed for D:\xampp\htdocs\phonestore/wp-content/updraft/backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins2.zip.tmp (line 4292, D:\xampp\htdocs\phonestore\wp-content\plugins\updraftplus\backup.php)
+5859.110 (9) Zip: backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins2.zip.tmp: 6200 files added (on-disk size: 0 KB)
+5859.116 (9) PHP event: code E_WARNING: filesize(): stat failed for D:\xampp\htdocs\phonestore/wp-content/updraft/backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins2.zip.tmp (line 4292, D:\xampp\htdocs\phonestore\wp-content\plugins\updraftplus\backup.php)
+5859.116 (9) Zip: backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins2.zip.tmp: 6300 files added (on-disk size: 0 KB)
+5859.121 (9) PHP event: code E_WARNING: filesize(): stat failed for D:\xampp\htdocs\phonestore/wp-content/updraft/backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins2.zip.tmp (line 4292, D:\xampp\htdocs\phonestore\wp-content\plugins\updraftplus\backup.php)
+5859.121 (9) Zip: backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins2.zip.tmp: 6400 files added (on-disk size: 0 KB)
+5859.126 (9) PHP event: code E_WARNING: filesize(): stat failed for D:\xampp\htdocs\phonestore/wp-content/updraft/backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins2.zip.tmp (line 4292, D:\xampp\htdocs\phonestore\wp-content\plugins\updraftplus\backup.php)
+5859.126 (9) Zip: backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins2.zip.tmp: 6500 files added (on-disk size: 0 KB)
+5859.132 (9) PHP event: code E_WARNING: filesize(): stat failed for D:\xampp\htdocs\phonestore/wp-content/updraft/backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins2.zip.tmp (line 4292, D:\xampp\htdocs\phonestore\wp-content\plugins\updraftplus\backup.php)
+5859.132 (9) Zip: backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins2.zip.tmp: 6600 files added (on-disk size: 0 KB)
+5859.138 (9) PHP event: code E_WARNING: filesize(): stat failed for D:\xampp\htdocs\phonestore/wp-content/updraft/backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins2.zip.tmp (line 4292, D:\xampp\htdocs\phonestore\wp-content\plugins\updraftplus\backup.php)
+5859.138 (9) Zip: backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins2.zip.tmp: 6700 files added (on-disk size: 0 KB)
+5859.146 (9) PHP event: code E_WARNING: filesize(): stat failed for D:\xampp\htdocs\phonestore/wp-content/updraft/backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins2.zip.tmp (line 4292, D:\xampp\htdocs\phonestore\wp-content\plugins\updraftplus\backup.php)
+5859.146 (9) Zip: backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins2.zip.tmp: 6800 files added (on-disk size: 0 KB)
+5859.152 (9) PHP event: code E_WARNING: filesize(): stat failed for D:\xampp\htdocs\phonestore/wp-content/updraft/backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins2.zip.tmp (line 4292, D:\xampp\htdocs\phonestore\wp-content\plugins\updraftplus\backup.php)
+5859.152 (9) Zip: backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins2.zip.tmp: 6900 files added (on-disk size: 0 KB)
+5859.157 (9) PHP event: code E_WARNING: filesize(): stat failed for D:\xampp\htdocs\phonestore/wp-content/updraft/backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins2.zip.tmp (line 4292, D:\xampp\htdocs\phonestore\wp-content\plugins\updraftplus\backup.php)
+5859.157 (9) Zip: backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins2.zip.tmp: 7000 files added (on-disk size: 0 KB)
+5859.164 (9) PHP event: code E_WARNING: filesize(): stat failed for D:\xampp\htdocs\phonestore/wp-content/updraft/backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins2.zip.tmp (line 4292, D:\xampp\htdocs\phonestore\wp-content\plugins\updraftplus\backup.php)
+5859.165 (9) Zip: backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins2.zip.tmp: 7100 files added (on-disk size: 0 KB)
+5859.170 (9) PHP event: code E_WARNING: filesize(): stat failed for D:\xampp\htdocs\phonestore/wp-content/updraft/backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins2.zip.tmp (line 4292, D:\xampp\htdocs\phonestore\wp-content\plugins\updraftplus\backup.php)
+5859.170 (9) Zip: backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins2.zip.tmp: 7200 files added (on-disk size: 0 KB)
+5859.175 (9) PHP event: code E_WARNING: filesize(): stat failed for D:\xampp\htdocs\phonestore/wp-content/updraft/backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins2.zip.tmp (line 4292, D:\xampp\htdocs\phonestore\wp-content\plugins\updraftplus\backup.php)
+5859.175 (9) Zip: backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins2.zip.tmp: 7300 files added (on-disk size: 0 KB)
+5859.180 (9) Zip: backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins2.zip.tmp: 7400 files added (on-disk size: 0 KB)
+5859.187 (9) Zip: backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins2.zip.tmp: 7500 files added (on-disk size: 0 KB)
+5859.194 (9) Zip: backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins2.zip.tmp: 7600 files added (on-disk size: 0 KB)
+5859.200 (9) Zip: backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins2.zip.tmp: 7700 files added (on-disk size: 0 KB)
+5859.207 (9) Zip: backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins2.zip.tmp: 7800 files added (on-disk size: 0 KB)
+5859.213 (9) Zip: backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins2.zip.tmp: 7900 files added (on-disk size: 0 KB)
+5859.220 (9) Zip: backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins2.zip.tmp: 8000 files added (on-disk size: 0 KB)
+5859.226 (9) Zip: backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins2.zip.tmp: 8100 files added (on-disk size: 0 KB)
+5859.233 (9) Zip: backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins2.zip.tmp: 8200 files added (on-disk size: 0 KB)
+5859.240 (9) Zip: backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins2.zip.tmp: 8300 files added (on-disk size: 0 KB)
+5859.246 (9) Zip: backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins2.zip.tmp: 8400 files added (on-disk size: 0 KB)
+5859.253 (9) Zip: backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins2.zip.tmp: 8500 files added (on-disk size: 0 KB)
+5859.260 (9) Zip: backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins2.zip.tmp: 8600 files added (on-disk size: 0 KB)
+5859.266 (9) Zip: backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins2.zip.tmp: 8700 files added (on-disk size: 0 KB)
+5859.272 (9) Zip: backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins2.zip.tmp: 8800 files added (on-disk size: 0 KB)
+5859.278 (9) Zip: backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins2.zip.tmp: 8900 files added (on-disk size: 0 KB)
+5859.285 (9) Zip: backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins2.zip.tmp: 9000 files added (on-disk size: 0 KB)
+5859.292 (9) Zip: backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins2.zip.tmp: 9100 files added (on-disk size: 0 KB)
+5859.299 (9) Zip: backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins2.zip.tmp: 9200 files added (on-disk size: 0 KB)
+5859.306 (9) Zip: backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins2.zip.tmp: 9300 files added (on-disk size: 0 KB)
+5859.312 (9) Zip: backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins2.zip.tmp: 9400 files added (on-disk size: 0 KB)
+5859.320 (9) Zip: backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins2.zip.tmp: 9500 files added (on-disk size: 0 KB)
+5859.328 (9) Zip: backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins2.zip.tmp: 9600 files added (on-disk size: 0 KB)
+5859.338 (9) Zip: backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins2.zip.tmp: 9700 files added (on-disk size: 0 KB)
+5859.346 (9) Zip: backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins2.zip.tmp: 9800 files added (on-disk size: 0 KB)
+5859.353 (9) Zip: backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins2.zip.tmp: 9900 files added (on-disk size: 0 KB)
+5859.361 (9) Zip: backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins2.zip.tmp: 10000 files added (on-disk size: 0 KB)
+5859.368 (9) Zip: backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins2.zip.tmp: 10100 files added (on-disk size: 0 KB)
+5859.377 (9) Zip: backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins2.zip.tmp: 10200 files added (on-disk size: 0 KB)
+5859.384 (9) Zip: backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins2.zip.tmp: 10300 files added (on-disk size: 0 KB)
+5859.392 (9) Zip: backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins2.zip.tmp: 10400 files added (on-disk size: 0 KB)
+5859.402 (9) Zip: backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins2.zip.tmp: 10500 files added (on-disk size: 0 KB)
+5859.410 (9) Zip: backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins2.zip.tmp: 10600 files added (on-disk size: 0 KB)
+5859.418 (9) Zip: backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins2.zip.tmp: 10700 files added (on-disk size: 0 KB)
+5859.427 (9) Zip: backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins2.zip.tmp: 10800 files added (on-disk size: 0 KB)
+5859.435 (9) Zip: backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins2.zip.tmp: 10900 files added (on-disk size: 0 KB)
+5859.443 (9) Zip: backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins2.zip.tmp: 11000 files added (on-disk size: 0 KB)
+5859.454 (9) Zip: backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins2.zip.tmp: 11100 files added (on-disk size: 0 KB)
+5859.462 (9) Zip: backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins2.zip.tmp: 11200 files added (on-disk size: 0 KB)
+5859.470 (9) Zip: backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins2.zip.tmp: 11300 files added (on-disk size: 0 KB)
+5859.476 (9) Zip: backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins2.zip.tmp: 11400 files added (on-disk size: 0 KB)
+5859.482 (9) Zip: backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins2.zip.tmp: 11500 files added (on-disk size: 0 KB)
+5859.489 (9) Zip: backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins2.zip.tmp: 11600 files added (on-disk size: 0 KB)
+5859.495 (9) Zip: backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins2.zip.tmp: 11700 files added (on-disk size: 0 KB)
+5859.500 (9) Zip: backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins2.zip.tmp: 11800 files added (on-disk size: 0 KB)
+5859.507 (9) Zip: backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins2.zip.tmp: 11900 files added (on-disk size: 0 KB)
+5859.513 (9) Zip: backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins2.zip.tmp: 12000 files added (on-disk size: 0 KB)
+5859.519 (9) Zip: backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins2.zip.tmp: 12100 files added (on-disk size: 0 KB)
+5859.524 (9) Zip: backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins2.zip.tmp: 12200 files added (on-disk size: 0 KB)
+5859.531 (9) Zip: backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins2.zip.tmp: 12300 files added (on-disk size: 0 KB)
+5859.539 (9) Zip: backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins2.zip.tmp: 12400 files added (on-disk size: 0 KB)
+5859.546 (9) Zip: backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins2.zip.tmp: 12500 files added (on-disk size: 0 KB)
+5859.553 (9) Zip: backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins2.zip.tmp: 12600 files added (on-disk size: 0 KB)
+5859.560 (9) Zip: backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins2.zip.tmp: 12700 files added (on-disk size: 0 KB)
+5859.569 (9) Zip: backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins2.zip.tmp: 12800 files added (on-disk size: 0 KB)
+5859.576 (9) Zip: backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins2.zip.tmp: 12900 files added (on-disk size: 0 KB)
+5859.582 (9) Zip: backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins2.zip.tmp: 13000 files added (on-disk size: 0 KB)
+5859.590 (9) Zip: backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins2.zip.tmp: 13100 files added (on-disk size: 0 KB)
+5859.601 (9) Zip: backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins2.zip.tmp: 13200 files added (on-disk size: 0 KB)
+5859.612 (9) Zip: backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins2.zip.tmp: 13300 files added (on-disk size: 0 KB)
+5859.622 (9) Zip: backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins2.zip.tmp: 13400 files added (on-disk size: 0 KB)
+5859.634 (9) Zip: backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins2.zip.tmp: 13500 files added (on-disk size: 0 KB)
+5859.646 (9) Zip: backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins2.zip.tmp: 13600 files added (on-disk size: 0 KB)
+5859.658 (9) Zip: backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins2.zip.tmp: 13700 files added (on-disk size: 0 KB)
+5859.668 (9) Zip: backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins2.zip.tmp: 13800 files added (on-disk size: 0 KB)
+5859.682 (9) Zip: backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins2.zip.tmp: 13900 files added (on-disk size: 0 KB)
+5859.693 (9) Zip: backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins2.zip.tmp: 14000 files added (on-disk size: 0 KB)
+5859.704 (9) Zip: backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins2.zip.tmp: 14100 files added (on-disk size: 0 KB)
+5859.718 (9) Zip: backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins2.zip.tmp: 14200 files added (on-disk size: 0 KB)
+5859.734 (9) Zip: backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins2.zip.tmp: 14300 files added (on-disk size: 0 KB)
+5859.750 (9) Zip: backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins2.zip.tmp: 14400 files added (on-disk size: 0 KB)
+5859.766 (9) Zip: backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins2.zip.tmp: 14500 files added (on-disk size: 0 KB)
+5859.783 (9) Zip: backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins2.zip.tmp: 14600 files added (on-disk size: 0 KB)
+5859.798 (9) Zip: backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins2.zip.tmp: 14700 files added (on-disk size: 0 KB)
+5859.814 (9) Zip: backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins2.zip.tmp: 14800 files added (on-disk size: 0 KB)
+5859.832 (9) Zip: backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins2.zip.tmp: 14900 files added (on-disk size: 0 KB)
+5859.851 (9) Zip: backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins2.zip.tmp: 15000 files added (on-disk size: 0 KB)
+5859.868 (9) Zip: backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins2.zip.tmp: 15100 files added (on-disk size: 0 KB)
+5859.887 (9) Zip: backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins2.zip.tmp: 15200 files added (on-disk size: 0 KB)
+5859.907 (9) Zip: backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins2.zip.tmp: 15300 files added (on-disk size: 0 KB)
+5859.925 (9) Zip: backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins2.zip.tmp: 15400 files added (on-disk size: 0 KB)
+5859.943 (9) Zip: backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins2.zip.tmp: 15500 files added (on-disk size: 0 KB)
+5859.961 (9) Zip: backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins2.zip.tmp: 15600 files added (on-disk size: 0 KB)
+5859.977 (9) Zip: backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins2.zip.tmp: 15700 files added (on-disk size: 0 KB)
+5859.998 (9) Zip: backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins2.zip.tmp: 15800 files added (on-disk size: 0 KB)
+5860.015 (9) Zip: backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins2.zip.tmp: 15900 files added (on-disk size: 0 KB)
+5860.031 (9) Zip: backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins2.zip.tmp: 16000 files added (on-disk size: 0 KB)
+5860.045 (9) Zip: backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins2.zip.tmp: 16100 files added (on-disk size: 0 KB)
+5860.066 (9) Zip: backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins2.zip.tmp: 16200 files added (on-disk size: 0 KB)
+5860.088 (9) Zip: backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins2.zip.tmp: 16300 files added (on-disk size: 0 KB)
+5860.109 (9) Zip: backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins2.zip.tmp: 16400 files added (on-disk size: 0 KB)
+5860.129 (9) Zip: backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins2.zip.tmp: 16500 files added (on-disk size: 0 KB)
+5860.150 (9) Zip: backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins2.zip.tmp: 16600 files added (on-disk size: 0 KB)
+5860.165 (9) Zip: backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins2.zip.tmp: 16700 files added (on-disk size: 0 KB)
+5860.182 (9) Zip: backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins2.zip.tmp: 16800 files added (on-disk size: 0 KB)
+5860.198 (9) Zip: backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins2.zip.tmp: 16900 files added (on-disk size: 0 KB)
+5860.215 (9) Zip: backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins2.zip.tmp: 17000 files added (on-disk size: 0 KB)
+5860.230 (9) Zip: backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins2.zip.tmp: 17100 files added (on-disk size: 0 KB)
+5860.249 (9) Zip: backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins2.zip.tmp: 17200 files added (on-disk size: 0 KB)
+5860.267 (9) Zip: backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins2.zip.tmp: 17300 files added (on-disk size: 0 KB)
+5860.282 (9) Zip: backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins2.zip.tmp: 17400 files added (on-disk size: 0 KB)
+5860.298 (9) Zip: backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins2.zip.tmp: 17500 files added (on-disk size: 0 KB)
+5860.314 (9) Zip: backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins2.zip.tmp: 17600 files added (on-disk size: 0 KB)
+5860.332 (9) Zip: backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins2.zip.tmp: 17700 files added (on-disk size: 0 KB)
+5860.352 (9) Zip: backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins2.zip.tmp: 17800 files added (on-disk size: 0 KB)
+5860.369 (9) Zip: backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins2.zip.tmp: 17900 files added (on-disk size: 0 KB)
+5860.379 (9) Adding batch to zip file (UpdraftPlus_PclZip): over 1000 files added on this batch (8.5 MB, 21087 files batched, 1001 (1001) added so far); re-opening (prior size: 0 KB)
+5865.169 (9) Zip: backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins2.zip.tmp: 18000 files added (on-disk size: 2939.9 KB)
+5865.177 (9) Zip: backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins2.zip.tmp: 18100 files added (on-disk size: 2939.9 KB)
+5865.185 (9) Zip: backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins2.zip.tmp: 18200 files added (on-disk size: 2939.9 KB)
+5865.193 (9) Zip: backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins2.zip.tmp: 18300 files added (on-disk size: 2939.9 KB)
+5865.202 (9) Zip: backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins2.zip.tmp: 18400 files added (on-disk size: 2939.9 KB)
+5865.211 (9) Zip: backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins2.zip.tmp: 18500 files added (on-disk size: 2939.9 KB)
+5865.221 (9) Zip: backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins2.zip.tmp: 18600 files added (on-disk size: 2939.9 KB)
+5865.230 (9) Zip: backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins2.zip.tmp: 18700 files added (on-disk size: 2939.9 KB)
+5865.240 (9) Zip: backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins2.zip.tmp: 18800 files added (on-disk size: 2939.9 KB)
+5865.250 (9) Zip: backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins2.zip.tmp: 18900 files added (on-disk size: 2939.9 KB)
+5865.255 (9) Adding batch to zip file (UpdraftPlus_PclZip): over 1000 files added on this batch (5.7 MB, 21087 files batched, 1001 (2002) added so far); re-opening (prior size: 2939.9 KB)
+5866.407 (9) Zip: backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins2.zip.tmp: 19000 files added (on-disk size: 4565.1 KB)
+5866.419 (9) Zip: backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins2.zip.tmp: 19100 files added (on-disk size: 4565.1 KB)
+5866.429 (9) Zip: backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins2.zip.tmp: 19200 files added (on-disk size: 4565.1 KB)
+5866.440 (9) Zip: backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins2.zip.tmp: 19300 files added (on-disk size: 4565.1 KB)
+5866.451 (9) Zip: backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins2.zip.tmp: 19400 files added (on-disk size: 4565.1 KB)
+5866.463 (9) Zip: backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins2.zip.tmp: 19500 files added (on-disk size: 4565.1 KB)
+5866.476 (9) Zip: backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins2.zip.tmp: 19600 files added (on-disk size: 4565.1 KB)
+5866.487 (9) Zip: backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins2.zip.tmp: 19700 files added (on-disk size: 4565.1 KB)
+5866.496 (9) Zip: backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins2.zip.tmp: 19800 files added (on-disk size: 4565.1 KB)
+5866.504 (9) Zip: backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins2.zip.tmp: 19900 files added (on-disk size: 4565.1 KB)
+5866.509 (9) Adding batch to zip file (UpdraftPlus_PclZip): over 1000 files added on this batch (2.7 MB, 21087 files batched, 1001 (3003) added so far); re-opening (prior size: 4565.1 KB)
+5866.759 (9) Zip: backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins2.zip.tmp: 20000 files added (on-disk size: 5501.3 KB)
+5866.767 (9) Zip: backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins2.zip.tmp: 20100 files added (on-disk size: 5501.3 KB)
+5866.776 (9) Zip: backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins2.zip.tmp: 20200 files added (on-disk size: 5501.3 KB)
+5866.784 (9) Zip: backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins2.zip.tmp: 20300 files added (on-disk size: 5501.3 KB)
+5866.793 (9) Zip: backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins2.zip.tmp: 20400 files added (on-disk size: 5501.3 KB)
+5866.801 (9) Zip: backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins2.zip.tmp: 20500 files added (on-disk size: 5501.3 KB)
+5866.810 (9) Zip: backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins2.zip.tmp: 20600 files added (on-disk size: 5501.3 KB)
+5866.818 (9) Zip: backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins2.zip.tmp: 20700 files added (on-disk size: 5501.3 KB)
+5866.828 (9) Zip: backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins2.zip.tmp: 20800 files added (on-disk size: 5501.3 KB)
+5866.837 (9) Zip: backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins2.zip.tmp: 20900 files added (on-disk size: 5501.3 KB)
+5866.842 (9) Adding batch to zip file (UpdraftPlus_PclZip): over 1000 files added on this batch (4 MB, 21087 files batched, 1001 (4004) added so far); re-opening (prior size: 5501.3 KB)
+5867.707 (9) Zip: backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins2.zip.tmp: 21000 files added (on-disk size: 6833.7 KB)
+5868.390 (9) Creating zip file manifest (backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins2.zip.list-temp.tmp)
+5868.400 (9) Successfully created zip file manifest (size: 438528)
+5868.446 (9) Created plugins zip (1) - 7008.4 KB in 53 s (132.2 KB/s) (sha1: 2060f6a1896a5c632975df5aa6269fe5171935ee, sha256: 4c0ceb191fe58da87bffb851f2f97ef215d8eed893f192867d8bf459f175fa29)
+5868.455 (9) Cloud backup selection (1/1): googledrive with instance (1/1) (last)
+5868.456 (9) Beginning dispatch of backup to remote (googledrive) (instance identifier s-6dbe0820faa350eb384ba206fef28b09)
+5868.972 (9) Google Drive: quota usage: used=12616.8 MB, total=255032320 MB, available=255019703.2 MB
+5868.974 (9) Google Drive: backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins2.zip: Attempting to upload to Google Drive (into folder id: 1KdlW2vSWuwnNmaqI8dAXXe4Xrb9jmG8Z)
+5870.878 (9) Googledrive chunked upload: 14.6 % uploaded (1048576 - increasing chunk size to 2048 KB - memory usage: 119.2 / 146)
+5872.234 (9) Googledrive chunked upload: 43.8 % uploaded (3145728 - increasing chunk size to 4096 KB - memory usage: 119.2 / 146)
+5875.968 (9) Googledrive chunked upload: 100 % uploaded (3145728)
+5875.974 (9) Google Drive: OK: Archive backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins2.zip uploaded in 7 seconds
+5875.977 (9) Recording as successfully uploaded: backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins2.zip
+5875.980 (9) Deleting local file: backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins2.zip: OK
+5875.988 (9) Beginning creation of dump of themes (split every: 200 MB)
+5876.026 (9) Total entities for the zip file: 50 directories, 400 files (0 skipped as non-modified), 13.6 MB
+5876.029 (9) Only one archive required (UpdraftPlus_PclZip) - will attempt to do in single operation (data: 13939.2 KB, split: 204800 KB)
+5876.036 (9) Zip: backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-themes.zip.tmp: 100 files added (on-disk size: 0 KB)
+5876.043 (9) Zip: backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-themes.zip.tmp: 200 files added (on-disk size: 0 KB)
+5876.050 (9) Zip: backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-themes.zip.tmp: 300 files added (on-disk size: 0 KB)
+5876.057 (9) Zip: backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-themes.zip.tmp: 400 files added (on-disk size: 0 KB)
+5877.255 (9) Creating zip file manifest (backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-themes.zip.list-temp.tmp)
+5877.258 (9) Successfully created zip file manifest (size: 28324)
+5877.343 (9) Created themes zip (0) - 12888.5 KB in 1.3 s (9552.9 KB/s) (sha1: fff9f5daf7d4adf5d0109b82a61e02af201712f3, sha256: e1a591d66fecb6557d78d57d0df1c7f22a2ec1b2b783dc7b7fc0c35ab8636db0)
+5877.349 (9) Cloud backup selection (1/1): googledrive with instance (1/1) (last)
+5877.350 (9) Beginning dispatch of backup to remote (googledrive) (instance identifier s-6dbe0820faa350eb384ba206fef28b09)
+5877.894 (9) Google Drive: quota usage: used=12623.6 MB, total=255032320 MB, available=255019696.4 MB
+5877.898 (9) Google Drive: backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-themes.zip: Attempting to upload to Google Drive (into folder id: 1KdlW2vSWuwnNmaqI8dAXXe4Xrb9jmG8Z)
+5879.854 (9) Googledrive chunked upload: 7.9 % uploaded (1048576 - increasing chunk size to 2048 KB - memory usage: 115.3 / 146)
+5881.184 (9) Googledrive chunked upload: 23.8 % uploaded (3145728 - increasing chunk size to 4096 KB - memory usage: 115.3 / 146)
+5883.066 (9) Googledrive chunked upload: 55.6 % uploaded (7340032 - increasing chunk size to 8192 KB - memory usage: 115.3 / 146)
+5887.626 (9) Googledrive chunked upload: 100 % uploaded (7340032)
+5887.633 (9) Google Drive: OK: Archive backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-themes.zip uploaded in 9.73 seconds
+5887.635 (9) Recording as successfully uploaded: backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-themes.zip
+5887.642 (9) Deleting local file: backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-themes.zip: OK
+5887.649 (9) Exclusion option setting (uploads): backup*,*backups,backwpup*,wp-clone,snapshots
+5887.651 (9) Looking for candidates to backup in: D:\xampp\htdocs\phonestore/wp-content/uploads
+5887.652 (9) finding files: 2025: adding to list (1)
+5887.654 (9) finding files: fonts: adding to list (2)
+5887.656 (9) finding files: wc-logs: adding to list (3)
+5887.658 (9) finding files: woocommerce-placeholder.webp: adding to list (4)
+5887.659 (9) finding files: woocommerce_uploads: adding to list (5)
+5887.661 (9) finding files: wpforms: adding to list (6)
+5887.662 (9) Beginning creation of dump of uploads (split every: 200 MB)
+5887.676 (9) Total entities for the zip file: 9 directories, 58 files (0 skipped as non-modified), 2.9 MB
+5887.677 (9) Only one archive required (UpdraftPlus_PclZip) - will attempt to do in single operation (data: 2943.4 KB, split: 204800 KB)
+5887.804 (9) Creating zip file manifest (backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-uploads.zip.list-temp.tmp)
+5887.807 (9) Successfully created zip file manifest (size: 4358)
+5887.829 (9) Created uploads zip (0) - 2745.8 KB in 0.2 s (16998.4 KB/s) (sha1: ed3a5e95156f9ffe67029a76bfffccc7c994c387, sha256: 56661eb6412ef6f9413f8d57bee1741dcb0e52e1a3ccc45063439c74c9e44b5c)
+5887.834 (9) Cloud backup selection (1/1): googledrive with instance (1/1) (last)
+5887.836 (9) Beginning dispatch of backup to remote (googledrive) (instance identifier s-6dbe0820faa350eb384ba206fef28b09)
+5888.410 (9) Google Drive: quota usage: used=12623.6 MB, total=255032320 MB, available=255019696.4 MB
+5888.412 (9) Google Drive: backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-uploads.zip: Attempting to upload to Google Drive (into folder id: 1KdlW2vSWuwnNmaqI8dAXXe4Xrb9jmG8Z)
+5890.384 (9) Googledrive chunked upload: 37.3 % uploaded (1048576 - increasing chunk size to 2048 KB - memory usage: 115.2 / 146)
+5893.519 (9) Googledrive chunked upload: 100 % uploaded (1048576)
+5893.525 (9) Google Drive: OK: Archive backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-uploads.zip uploaded in 5.11 seconds
+5893.526 (9) Recording as successfully uploaded: backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-uploads.zip
+5893.530 (9) Deleting local file: backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-uploads.zip: OK
+5893.536 (9) Beginning creation of dump of mu-plugins (split every: 200 MB)
+5893.537 (9) Does not exist: D:\xampp\htdocs\phonestore/wp-content/mu-plugins
+5893.538 (9) There are no mu-plugins to backup. Will not raise an error.
+5893.540 (9) mu-plugins: create_zip returned an error
+5893.544 (9) Beginning backup of other directories found in the content directory (index: 0)
+5893.545 (9) Exclusion option setting (others): upgrade,cache,updraft,backup*,*backups,mysql.sql,debug.log
+5893.547 (9) Looking for candidates to backup in: D:\xampp\htdocs\phonestore/wp-content
+5893.549 (9) finding files: index.php: adding to list (1)
+5893.550 (9) finding files: jetpack-waf: adding to list (2)
+5893.552 (9) finding files: plugins: skipping: this is the plugins directory
+5893.553 (9) finding files: themes: skipping: this is the themes directory
+5893.555 (9) finding files: updraft: skipping: this is the updraft directory
+5893.556 (9) finding files: upgrade: skipping: excluded by options
+5893.558 (9) finding files: uploads: skipping: this is the uploads directory
+5893.565 (9) Total entities for the zip file: 2 directories, 6 files (0 skipped as non-modified), 0 MB
+5893.567 (9) Only one archive required (UpdraftPlus_PclZip) - will attempt to do in single operation (data: 0.8 KB, split: 204800 KB)
+5893.575 (9) Creating zip file manifest (backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-others.zip.list-temp.tmp)
+5893.576 (9) Successfully created zip file manifest (size: 240)
+5893.583 (9) Created others zip (0) - 1.4 KB in 0 s (68.8 KB/s) (sha1: 9afb06cc18183834f080826d5e0f24d58f70ad3c, sha256: e93afc97ac410525163e5b67eb57094842f0acdfdb4bdeb632fb82597fe90c00)
+5893.589 (9) Cloud backup selection (1/1): googledrive with instance (1/1) (last)
+5893.591 (9) Beginning dispatch of backup to remote (googledrive) (instance identifier s-6dbe0820faa350eb384ba206fef28b09)
+5894.226 (9) Google Drive: quota usage: used=12636.2 MB, total=255032320 MB, available=255019683.8 MB
+5894.229 (9) Google Drive: backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-others.zip: Attempting to upload to Google Drive (into folder id: 1KdlW2vSWuwnNmaqI8dAXXe4Xrb9jmG8Z)
+5896.959 (9) Googledrive chunked upload: 100 % uploaded
+5896.966 (9) Google Drive: OK: Archive backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-others.zip uploaded in 2.73 seconds
+5896.968 (9) Recording as successfully uploaded: backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-others.zip
+5896.973 (9) Deleting local file: backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-others.zip: OK
+5896.986 (9) Saving backup status to database (elements: 9)
+5896.991 (9) Resuming creation of database dump (WordPress DB)
+5896.995 (9) SQL compatibility mode is: NO_ZERO_IN_DATE,NO_ENGINE_SUBSTITUTION
+5897.000 (9) Testing potential mysqldump binary: C:\Program Files\MySQL\MySQL Workbench 8.0\mysqldump.exe
+5897.094 (9) Output: /*!40103 SET @OLD_TIME_ZONE=@@TIME_ZONE */;\n/*!40103 SET TIME_ZONE='+00:00' */;\n/*!40014 SET @OLD_UNIQUE_CHECKS=@@UNIQUE_CHECKS, UNIQUE_CHECKS=0 */;\n/*!40014 SET @OLD_FOREIGN_KEY_CHECKS=@@FOREIGN_KEY_CHECKS, FOREIGN_KEY_CHECKS=0 */;\n/*!40101 SET @OLD_SQL_MODE=@@SQL_MODE, SQL_MODE='NO_AUTO_VALUE_ON_ZERO' */;\n/*!40111 SET @OLD_SQL_NOTES=@@SQL_NOTES, SQL_NOTES=0 */;\nDROP TABLE IF EXISTS `wp_options`;\n/*!40101 SET @saved_cs_client     = @@character_set_client */;\n/*!50503 SET character_set_client = utf8mb4 */;\n (truncated - 1453 bytes total)
+5897.096 (9) Working binary mysqldump found: "C:\Program Files\MySQL\MySQL Workbench 8.0\mysqldump.exe"
+5897.115 (9) Table wp_options: Total expected rows (via COUNT): 665
+5897.168 (9) Table wp_options: Rows added in this batch (next record: 1128): 661 (uncompressed bytes in this segment=2415334) in 0.06 seconds
+5897.178 (9) Table wp_options: finishing file(s) (2, 398.5 KB)
+5897.184 (9) Table wp_users: Total expected rows (via COUNT): 1
+5897.186 (9) Last successful resumption was 10 runs ago; fetch_rows will thus be: 5 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+5897.190 (9) Table wp_users: Rows added in this batch (next record: 1): 1 (uncompressed bytes in this segment=1207) in 0.01 seconds
+5897.195 (9) Table wp_users: finishing file(s) (2, 0.6 KB)
+5897.204 (9) Table wp_usermeta: Total expected rows (via COUNT): 49
+5897.205 (9) Last successful resumption was 10 runs ago; fetch_rows will thus be: 5 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+5897.209 (9) Table wp_usermeta: Rows added in this batch (next record: 53): 49 (uncompressed bytes in this segment=4217) in 0.01 seconds
+5897.216 (9) Table wp_usermeta: finishing file(s) (2, 1.8 KB)
+5897.225 (9) Table wp_actionscheduler_actions: Total expected rows (via COUNT): 61
+5897.226 (9) Last successful resumption was 10 runs ago; fetch_rows will thus be: 5 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+5897.229 (9) Table wp_actionscheduler_actions: Rows added in this batch (next record: 69): 61 (uncompressed bytes in this segment=28280) in 0.01 seconds
+5897.236 (9) Table wp_actionscheduler_actions: finishing file(s) (2, 3.3 KB)
+5897.242 (9) Table wp_actionscheduler_claims: Total expected rows (via COUNT): 0
+5897.246 (9) Table wp_actionscheduler_claims: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=625) in 0.01 seconds
+5897.251 (9) Table wp_actionscheduler_claims: finishing file(s) (2, 0.4 KB)
+5897.258 (9) Table wp_actionscheduler_groups: Total expected rows (via COUNT): 11
+5897.280 (9) Last successful resumption was 10 runs ago; fetch_rows will thus be: 5 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+5897.285 (9) Table wp_actionscheduler_groups: Rows added in this batch (next record: 11): 11 (uncompressed bytes in this segment=982) in 0.03 seconds
+5897.296 (9) Table wp_actionscheduler_groups: finishing file(s) (2, 0.5 KB)
+5897.305 (9) Table wp_actionscheduler_logs: Total expected rows (via COUNT): 159
+5897.306 (9) Last successful resumption was 10 runs ago; fetch_rows will thus be: 5 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+5897.312 (9) Table wp_actionscheduler_logs: Rows added in this batch (next record: 163): 159 (uncompressed bytes in this segment=15841) in 0.01 seconds
+5897.321 (9) Table wp_actionscheduler_logs: finishing file(s) (2, 2.1 KB)
+5897.335 (9) Table wp_commentmeta: Total expected rows (via COUNT): 0
+5897.339 (9) Table wp_commentmeta: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=634) in 0.01 seconds
+5897.350 (9) Table wp_commentmeta: finishing file(s) (2, 0.4 KB)
+5897.361 (9) Table wp_comments: Total expected rows (via COUNT): 5
+5897.363 (9) Last successful resumption was 10 runs ago; fetch_rows will thus be: 5 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+5897.370 (9) Table wp_comments: Rows added in this batch (next record: 5): 5 (uncompressed bytes in this segment=2716) in 0.01 seconds
+5897.378 (9) Table wp_comments: finishing file(s) (2, 0.9 KB)
+5897.387 (9) Table wp_links: Total expected rows (via COUNT): 0
+5897.392 (9) Table wp_links: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1027) in 0.01 seconds
+5897.402 (9) Table wp_links: finishing file(s) (2, 0.5 KB)
+5897.413 (9) Table wp_postmeta: Total expected rows (via COUNT): 143
+5897.416 (9) Last successful resumption was 10 runs ago; fetch_rows will thus be: 5 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+5897.426 (9) Table wp_postmeta: Rows added in this batch (next record: 150): 143 (uncompressed bytes in this segment=9765) in 0.02 seconds
+5897.438 (9) Table wp_postmeta: finishing file(s) (2, 2.3 KB)
+5897.447 (9) Table wp_posts: Total expected rows (via COUNT): 96
+5897.449 (9) Last successful resumption was 10 runs ago; fetch_rows will thus be: 5 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+5897.457 (9) Table wp_posts: Rows added in this batch (next record: 96): 96 (uncompressed bytes in this segment=71997) in 0.01 seconds
+5897.468 (9) Table wp_posts: finishing file(s) (2, 11.9 KB)
+5897.474 (9) Table wp_term_relationships: Total expected rows (approximate): 22
+5897.477 (9) Table wp_term_relationships: Rows added in this batch (next record: 100000): 22 (uncompressed bytes in this segment=988) in 0.00 seconds
+5897.483 (9) Table wp_term_relationships: finishing file(s) (2, 0.4 KB)
+5897.490 (9) Table wp_term_taxonomy: Total expected rows (via COUNT): 34
+5897.491 (9) Last successful resumption was 10 runs ago; fetch_rows will thus be: 5 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+5897.495 (9) Table wp_term_taxonomy: Rows added in this batch (next record: 35): 34 (uncompressed bytes in this segment=2346) in 0.01 seconds
+5897.503 (9) Table wp_term_taxonomy: finishing file(s) (2, 0.8 KB)
+5897.509 (9) Table wp_termmeta: Total expected rows (via COUNT): 26
+5897.510 (9) Last successful resumption was 10 runs ago; fetch_rows will thus be: 5 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+5897.513 (9) Table wp_termmeta: Rows added in this batch (next record: 27): 26 (uncompressed bytes in this segment=1625) in 0.01 seconds
+5897.521 (9) Table wp_termmeta: finishing file(s) (2, 0.6 KB)
+5897.525 (9) Table wp_terms: Total expected rows (via COUNT): 34
+5897.526 (9) Last successful resumption was 10 runs ago; fetch_rows will thus be: 5 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+5897.529 (9) Table wp_terms: Rows added in this batch (next record: 35): 34 (uncompressed bytes in this segment=2039) in 0.00 seconds
+5897.534 (9) Table wp_terms: finishing file(s) (2, 0.8 KB)
+5897.539 (9) Table wp_wc_category_lookup: Total expected rows (approximate): 6
+5897.543 (9) Table wp_wc_category_lookup: Rows added in this batch (next record: 1000): 6 (uncompressed bytes in this segment=644) in 0.00 seconds
+5897.549 (9) Table wp_wc_category_lookup: finishing file(s) (2, 0.4 KB)
+5897.555 (9) Table wp_wc_product_meta_lookup: Total expected rows (via COUNT): 3
+5897.557 (9) Last successful resumption was 10 runs ago; fetch_rows will thus be: 5 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+5897.560 (9) Table wp_wc_product_meta_lookup: Rows added in this batch (next record: 81): 3 (uncompressed bytes in this segment=1643) in 0.01 seconds
+5897.567 (9) Table wp_wc_product_meta_lookup: finishing file(s) (2, 0.6 KB)
+5897.573 (9) Table wp_wc_reserved_stock: Total expected rows (approximate): 0
+5897.577 (9) Table wp_wc_reserved_stock: Rows added in this batch (next record: 0): 0 (uncompressed bytes in this segment=663) in 0.01 seconds
+5897.583 (9) Table wp_wc_reserved_stock: finishing file(s) (2, 0.4 KB)
+5897.588 (9) Table wp_wc_tax_rate_classes: Total expected rows (via COUNT): 1
+5897.590 (9) Last successful resumption was 10 runs ago; fetch_rows will thus be: 5 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+5897.594 (9) Table wp_wc_tax_rate_classes: Rows added in this batch (next record: 3): 1 (uncompressed bytes in this segment=720) in 0.01 seconds
+5897.600 (9) Table wp_wc_tax_rate_classes: finishing file(s) (2, 0.4 KB)
+5897.609 (9) Table wp_woocommerce_order_itemmeta: Total expected rows (via COUNT): 690
+5897.610 (9) Last successful resumption was 10 runs ago; fetch_rows will thus be: 5 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+5897.622 (9) Table wp_woocommerce_order_itemmeta: Rows added in this batch (next record: 554): 500 (uncompressed bytes in this segment=24210) in 0.02 seconds
+5897.629 (9) Table wp_woocommerce_order_itemmeta: Total expected rows (via COUNT): 690
+5897.630 (9) Last successful resumption was 10 runs ago; fetch_rows will thus be: 5 (allow_further_reductions=1, is_first_fetch=, known_bigger_than_table=1)
+5897.635 (9) Table wp_woocommerce_order_itemmeta: Rows added in this batch (next record: 744): 190 (uncompressed bytes in this segment=8898) in 0.01 seconds
+5897.643 (9) Table wp_woocommerce_order_itemmeta: finishing file(s) (3, 4.7 KB)
+5897.650 (9) Table wp_woocommerce_payment_tokenmeta: Total expected rows (via COUNT): 0
+5897.656 (9) Table wp_woocommerce_payment_tokenmeta: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=749) in 0.01 seconds
+5897.663 (9) Table wp_woocommerce_payment_tokenmeta: finishing file(s) (2, 0.4 KB)
+5897.669 (9) Table wp_gla_attribute_mapping_rules: Total expected rows (via COUNT): 0
+5897.673 (9) Table wp_gla_attribute_mapping_rules: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=658) in 0.01 seconds
+5897.679 (9) Table wp_gla_attribute_mapping_rules: finishing file(s) (2, 0.4 KB)
+5897.685 (9) Table wp_gla_budget_recommendations: Total expected rows (approximate): 4230
+5897.703 (9) Table wp_gla_budget_recommendations: Rows added in this batch (next record: 4230): 4230 (uncompressed bytes in this segment=113833) in 0.02 seconds
+5897.711 (9) Table wp_gla_budget_recommendations: finishing file(s) (2, 23.9 KB)
+5897.717 (9) Table wp_gla_merchant_issues: Total expected rows (via COUNT): 0
+5897.719 (9) Table wp_gla_merchant_issues: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=882) in 0.00 seconds
+5897.724 (9) Table wp_gla_merchant_issues: finishing file(s) (2, 0.4 KB)
+5897.731 (9) Table wp_gla_merchant_price_benchmarks: Total expected rows (via COUNT): 0
+5897.732 (9) Table wp_gla_merchant_price_benchmarks: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1711) in 0.00 seconds
+5897.742 (9) Table wp_gla_merchant_price_benchmarks: finishing file(s) (2, 0.5 KB)
+5897.750 (9) Table wp_gla_shipping_rates: Total expected rows (via COUNT): 0
+5897.753 (9) Table wp_gla_shipping_rates: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=647) in 0.01 seconds
+5897.761 (9) Table wp_gla_shipping_rates: finishing file(s) (2, 0.4 KB)
+5897.772 (9) Table wp_gla_shipping_times: Total expected rows (via COUNT): 0
+5897.773 (9) Table wp_gla_shipping_times: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=599) in 0.01 seconds
+5897.783 (9) Table wp_gla_shipping_times: finishing file(s) (2, 0.3 KB)
+5897.795 (9) Table wp_wc_admin_note_actions: Total expected rows (via COUNT): 96
+5897.797 (9) Last successful resumption was 10 runs ago; fetch_rows will thus be: 5 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+5897.805 (9) Table wp_wc_admin_note_actions: Rows added in this batch (next record: 632): 96 (uncompressed bytes in this segment=19536) in 0.02 seconds
+5897.818 (9) Table wp_wc_admin_note_actions: finishing file(s) (2, 3.2 KB)
+5897.828 (9) Table wp_wc_admin_notes: Total expected rows (via COUNT): 68
+5897.831 (9) Last successful resumption was 10 runs ago; fetch_rows will thus be: 5 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+5897.837 (9) Table wp_wc_admin_notes: Rows added in this batch (next record: 68): 68 (uncompressed bytes in this segment=33539) in 0.01 seconds
+5897.849 (9) Table wp_wc_admin_notes: finishing file(s) (2, 7.3 KB)
+5897.857 (9) Table wp_wc_customer_lookup: Total expected rows (via COUNT): 1
+5897.860 (9) Last successful resumption was 10 runs ago; fetch_rows will thus be: 5 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+5897.863 (9) Table wp_wc_customer_lookup: Rows added in this batch (next record: 1): 1 (uncompressed bytes in this segment=1216) in 0.01 seconds
+5897.870 (9) Table wp_wc_customer_lookup: finishing file(s) (2, 0.6 KB)
+5897.880 (9) Table wp_wc_download_log: Total expected rows (via COUNT): 0
+5897.884 (9) Table wp_wc_download_log: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=716) in 0.01 seconds
+5897.892 (9) Table wp_wc_download_log: finishing file(s) (2, 0.4 KB)
+5897.902 (9) Table wp_wc_order_addresses: Total expected rows (via COUNT): 4
+5897.903 (9) Last successful resumption was 10 runs ago; fetch_rows will thus be: 5 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+5897.909 (9) Table wp_wc_order_addresses: Rows added in this batch (next record: 4): 4 (uncompressed bytes in this segment=1778) in 0.01 seconds
+5897.918 (9) Table wp_wc_order_addresses: finishing file(s) (2, 0.6 KB)
+5897.924 (9) Table wp_wc_order_coupon_lookup: Total expected rows (approximate): 0
+5897.930 (9) Table wp_wc_order_coupon_lookup: Rows added in this batch (next record: 0): 0 (uncompressed bytes in this segment=715) in 0.01 seconds
+5897.939 (9) Table wp_wc_order_coupon_lookup: finishing file(s) (2, 0.4 KB)
+5897.946 (9) Table wp_wc_order_operational_data: Total expected rows (via COUNT): 2
+5897.947 (9) Last successful resumption was 10 runs ago; fetch_rows will thus be: 5 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+5897.952 (9) Table wp_wc_order_operational_data: Rows added in this batch (next record: 9): 2 (uncompressed bytes in this segment=1829) in 0.01 seconds
+5897.960 (9) Table wp_wc_order_operational_data: finishing file(s) (2, 0.7 KB)
+5897.968 (9) Table wp_wc_order_product_lookup: Total expected rows (via COUNT): 2
+5897.970 (9) Last successful resumption was 10 runs ago; fetch_rows will thus be: 5 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+5897.972 (9) Table wp_wc_order_product_lookup: Rows added in this batch (next record: 10): 2 (uncompressed bytes in this segment=1517) in 0.01 seconds
+5897.980 (9) Table wp_wc_order_product_lookup: finishing file(s) (2, 0.6 KB)
+5897.986 (9) Table wp_wc_order_stats: Total expected rows (via COUNT): 2
+5897.987 (9) Last successful resumption was 10 runs ago; fetch_rows will thus be: 5 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+5897.989 (9) Table wp_wc_order_stats: Rows added in this batch (next record: 85): 2 (uncompressed bytes in this segment=1484) in 0.00 seconds
+5897.994 (9) Table wp_wc_order_stats: finishing file(s) (2, 0.6 KB)
+5898.001 (9) Table wp_wc_order_tax_lookup: Total expected rows (approximate): 0
+5898.004 (9) Table wp_wc_order_tax_lookup: Rows added in this batch (next record: 0): 0 (uncompressed bytes in this segment=793) in 0.00 seconds
+5898.009 (9) Table wp_wc_order_tax_lookup: finishing file(s) (2, 0.4 KB)
+5898.014 (9) Table wp_wc_orders: Total expected rows (via COUNT): 2
+5898.015 (9) Last successful resumption was 10 runs ago; fetch_rows will thus be: 5 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+5898.018 (9) Table wp_wc_orders: Rows added in this batch (next record: 85): 2 (uncompressed bytes in this segment=2129) in 0.01 seconds
+5898.024 (9) Table wp_wc_orders: finishing file(s) (2, 0.8 KB)
+5898.029 (9) Table wp_wc_orders_meta: Total expected rows (via COUNT): 30
+5898.031 (9) Last successful resumption was 10 runs ago; fetch_rows will thus be: 5 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+5898.033 (9) Table wp_wc_orders_meta: Rows added in this batch (next record: 30): 30 (uncompressed bytes in this segment=3346) in 0.00 seconds
+5898.038 (9) Table wp_wc_orders_meta: finishing file(s) (2, 1 KB)
+5898.044 (9) Table wp_wc_product_attributes_lookup: Total expected rows (approximate): 4
+5898.047 (9) Table wp_wc_product_attributes_lookup: Rows added in this batch (next record: 1000): 4 (uncompressed bytes in this segment=1022) in 0.00 seconds
+5898.053 (9) Table wp_wc_product_attributes_lookup: finishing file(s) (2, 0.5 KB)
+5898.058 (9) Table wp_wc_product_download_directories: Total expected rows (via COUNT): 2
+5898.059 (9) Last successful resumption was 10 runs ago; fetch_rows will thus be: 5 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+5898.063 (9) Table wp_wc_product_download_directories: Rows added in this batch (next record: 2): 2 (uncompressed bytes in this segment=887) in 0.01 seconds
+5898.068 (9) Table wp_wc_product_download_directories: finishing file(s) (2, 0.5 KB)
+5898.073 (9) Table wp_wc_rate_limits: Total expected rows (via COUNT): 0
+5898.076 (9) Table wp_wc_rate_limits: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=667) in 0.00 seconds
+5898.083 (9) Table wp_wc_rate_limits: finishing file(s) (2, 0.4 KB)
+5898.088 (9) Table wp_wc_webhooks: Total expected rows (via COUNT): 0
+5898.089 (9) Table wp_wc_webhooks: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1088) in 0.00 seconds
+5898.095 (9) Table wp_wc_webhooks: finishing file(s) (2, 0.5 KB)
+5898.103 (9) Table wp_woocommerce_api_keys: Total expected rows (via COUNT): 1
+5898.104 (9) Last successful resumption was 10 runs ago; fetch_rows will thus be: 5 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+5898.107 (9) Table wp_woocommerce_api_keys: Rows added in this batch (next record: 1): 1 (uncompressed bytes in this segment=1113) in 0.01 seconds
+5898.114 (9) Table wp_woocommerce_api_keys: finishing file(s) (2, 0.6 KB)
+5898.119 (9) Table wp_woocommerce_attribute_taxonomies: Total expected rows (via COUNT): 4
+5898.121 (9) Last successful resumption was 10 runs ago; fetch_rows will thus be: 5 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+5898.123 (9) Table wp_woocommerce_attribute_taxonomies: Rows added in this batch (next record: 4): 4 (uncompressed bytes in this segment=1152) in 0.00 seconds
+5898.129 (9) Table wp_woocommerce_attribute_taxonomies: finishing file(s) (2, 0.5 KB)
+5898.134 (9) Table wp_woocommerce_downloadable_product_permissions: Total expected rows (via COUNT): 0
+5898.137 (9) Table wp_woocommerce_downloadable_product_permissions: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1410) in 0.00 seconds
+5898.144 (9) Table wp_woocommerce_downloadable_product_permissions: finishing file(s) (2, 0.5 KB)
+5898.151 (9) Table wp_woocommerce_log: Total expected rows (via COUNT): 0
+5898.153 (9) Table wp_woocommerce_log: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=642) in 0.01 seconds
+5898.161 (9) Table wp_woocommerce_log: finishing file(s) (2, 0.4 KB)
+5898.168 (9) Table wp_woocommerce_order_items: Total expected rows (via COUNT): 70
+5898.170 (9) Last successful resumption was 10 runs ago; fetch_rows will thus be: 5 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+5898.174 (9) Table wp_woocommerce_order_items: Rows added in this batch (next record: 77): 70 (uncompressed bytes in this segment=4542) in 0.01 seconds
+5898.180 (9) Table wp_woocommerce_order_items: finishing file(s) (2, 0.7 KB)
+5898.185 (9) Table wp_woocommerce_payment_tokens: Total expected rows (via COUNT): 0
+5898.189 (9) Table wp_woocommerce_payment_tokens: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=744) in 0.01 seconds
+5898.195 (9) Table wp_woocommerce_payment_tokens: finishing file(s) (2, 0.4 KB)
+5898.202 (9) Table wp_woocommerce_sessions: Total expected rows (via COUNT): 2
+5898.203 (9) Last successful resumption was 10 runs ago; fetch_rows will thus be: 5 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+5898.208 (9) Table wp_woocommerce_sessions: Rows added in this batch (next record: 96): 2 (uncompressed bytes in this segment=2888) in 0.01 seconds
+5898.216 (9) Table wp_woocommerce_sessions: finishing file(s) (2, 0.9 KB)
+5898.222 (9) Table wp_woocommerce_shipping_zone_locations: Total expected rows (via COUNT): 2
+5898.223 (9) Last successful resumption was 10 runs ago; fetch_rows will thus be: 5 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+5898.225 (9) Table wp_woocommerce_shipping_zone_locations: Rows added in this batch (next record: 2): 2 (uncompressed bytes in this segment=933) in 0.00 seconds
+5898.231 (9) Table wp_woocommerce_shipping_zone_locations: finishing file(s) (2, 0.4 KB)
+5898.238 (9) Table wp_woocommerce_shipping_zone_methods: Total expected rows (via COUNT): 4
+5898.240 (9) Last successful resumption was 10 runs ago; fetch_rows will thus be: 5 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+5898.241 (9) Table wp_woocommerce_shipping_zone_methods: Rows added in this batch (next record: 5): 4 (uncompressed bytes in this segment=937) in 0.00 seconds
+5898.250 (9) Table wp_woocommerce_shipping_zone_methods: finishing file(s) (2, 0.4 KB)
+5898.259 (9) Table wp_woocommerce_shipping_zones: Total expected rows (via COUNT): 2
+5898.261 (9) Last successful resumption was 10 runs ago; fetch_rows will thus be: 5 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+5898.264 (9) Table wp_woocommerce_shipping_zones: Rows added in this batch (next record: 2): 2 (uncompressed bytes in this segment=726) in 0.01 seconds
+5898.273 (9) Table wp_woocommerce_shipping_zones: finishing file(s) (2, 0.4 KB)
+5898.283 (9) Table wp_woocommerce_tax_rate_locations: Total expected rows (via COUNT): 0
+5898.288 (9) Table wp_woocommerce_tax_rate_locations: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=786) in 0.01 seconds
+5898.297 (9) Table wp_woocommerce_tax_rate_locations: finishing file(s) (2, 0.4 KB)
+5898.306 (9) Table wp_woocommerce_tax_rates: Total expected rows (via COUNT): 0
+5898.317 (9) Table wp_woocommerce_tax_rates: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1142) in 0.02 seconds
+5898.335 (9) Table wp_woocommerce_tax_rates: finishing file(s) (2, 0.4 KB)
+5898.350 (9) Table wp_wpforms_logs: Total expected rows (via COUNT): 0
+5898.353 (9) Table wp_wpforms_logs: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=659) in 0.01 seconds
+5898.377 (9) Table wp_wpforms_logs: finishing file(s) (2, 0.4 KB)
+5898.493 (9) Table wp_wpforms_payment_meta: Total expected rows (via COUNT): 0
+5898.499 (9) Table wp_wpforms_payment_meta: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=690) in 0.01 seconds
+5898.506 (9) Table wp_wpforms_payment_meta: finishing file(s) (2, 0.4 KB)
+5898.512 (9) Table wp_wpforms_payments: Total expected rows (via COUNT): 0
+5898.515 (9) Table wp_wpforms_payments: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1650) in 0.01 seconds
+5898.523 (9) Table wp_wpforms_payments: finishing file(s) (2, 0.6 KB)
+5898.530 (9) Table wp_wpforms_tasks_meta: Total expected rows (via COUNT): 5
+5898.531 (9) Last successful resumption was 10 runs ago; fetch_rows will thus be: 5 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+5898.535 (9) Table wp_wpforms_tasks_meta: Rows added in this batch (next record: 6): 5 (uncompressed bytes in this segment=962) in 0.01 seconds
+5898.542 (9) Table wp_wpforms_tasks_meta: finishing file(s) (2, 0.5 KB)
+5898.548 (9) Table wp_wpmailsmtp_debug_events: Total expected rows (via COUNT): 0
+5898.551 (9) Table wp_wpmailsmtp_debug_events: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=671) in 0.00 seconds
+5898.557 (9) Table wp_wpmailsmtp_debug_events: finishing file(s) (2, 0.4 KB)
+5898.564 (9) Table wp_wpmailsmtp_tasks_meta: Total expected rows (via COUNT): 1
+5898.565 (9) Last successful resumption was 10 runs ago; fetch_rows will thus be: 5 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+5898.569 (9) Table wp_wpmailsmtp_tasks_meta: Rows added in this batch (next record: 1): 1 (uncompressed bytes in this segment=704) in 0.01 seconds
+5898.576 (9) Table wp_wpmailsmtp_tasks_meta: finishing file(s) (2, 0.4 KB)
+5898.578 (9) PHP event: code E_WARNING: filemtime(): stat failed for D:\xampp\htdocs\phonestore/wp-content/updraft/backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-db.gz (line 1923, D:\xampp\htdocs\phonestore\wp-content\plugins\updraftplus\backup.php)
+5898.580 (9) backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-db-table-wp_options.table.tmpr1129.gz (1/62/fopen): adding to final database dump
+5898.585 (9) backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-db-table-wp_options.table.gz (2/62/fopen): adding to final database dump
+5898.587 (9) backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-db-table-wp_users.table.tmpr2.gz (3/62/fopen): adding to final database dump
+5898.588 (9) backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-db-table-wp_users.table.gz (4/62/fopen): adding to final database dump
+5898.589 (9) backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-db-table-wp_usermeta.table.tmpr54.gz (5/62/fopen): adding to final database dump
+5898.591 (9) backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-db-table-wp_usermeta.table.gz (6/62/fopen): adding to final database dump
+5898.592 (9) backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-db-table-wp_actionscheduler_actions.table.tmpr70.gz (7/62/fopen): adding to final database dump
+5898.593 (9) backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-db-table-wp_actionscheduler_actions.table.gz (8/62/fopen): adding to final database dump
+5898.594 (9) backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-db-table-wp_actionscheduler_claims.table.tmpr0.gz (9/62/fopen): adding to final database dump
+5898.596 (9) backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-db-table-wp_actionscheduler_claims.table.gz (10/62/fopen): adding to final database dump
+5898.597 (9) backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-db-table-wp_actionscheduler_groups.table.tmpr12.gz (11/62/fopen): adding to final database dump
+5898.598 (9) backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-db-table-wp_actionscheduler_groups.table.gz (12/62/fopen): adding to final database dump
+5898.600 (9) backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-db-table-wp_actionscheduler_logs.table.tmpr164.gz (13/62/fopen): adding to final database dump
+5898.601 (9) backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-db-table-wp_actionscheduler_logs.table.gz (14/62/fopen): adding to final database dump
+5898.602 (9) backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-db-table-wp_commentmeta.table.tmpr0.gz (15/62/fopen): adding to final database dump
+5898.604 (9) backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-db-table-wp_commentmeta.table.gz (16/62/fopen): adding to final database dump
+5898.605 (9) backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-db-table-wp_comments.table.tmpr6.gz (17/62/fopen): adding to final database dump
+5898.606 (9) backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-db-table-wp_comments.table.gz (18/62/fopen): adding to final database dump
+5898.607 (9) backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-db-table-wp_links.table.tmpr0.gz (19/62/fopen): adding to final database dump
+5898.609 (9) backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-db-table-wp_links.table.gz (20/62/fopen): adding to final database dump
+5898.610 (9) backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-db-table-wp_postmeta.table.tmpr151.gz (21/62/fopen): adding to final database dump
+5898.611 (9) backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-db-table-wp_postmeta.table.gz (22/62/fopen): adding to final database dump
+5898.613 (9) backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-db-table-wp_posts.table.tmpr97.gz (23/62/fopen): adding to final database dump
+5898.614 (9) backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-db-table-wp_posts.table.gz (24/62/fopen): adding to final database dump
+5898.615 (9) backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-db-table-wp_term_relationships.table.tmpr100001.gz (25/62/fopen): adding to final database dump
+5898.617 (9) backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-db-table-wp_term_relationships.table.gz (26/62/fopen): adding to final database dump
+5898.618 (9) backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-db-table-wp_term_taxonomy.table.tmpr36.gz (27/62/fopen): adding to final database dump
+5898.619 (9) backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-db-table-wp_term_taxonomy.table.gz (28/62/fopen): adding to final database dump
+5898.620 (9) backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-db-table-wp_termmeta.table.tmpr28.gz (29/62/fopen): adding to final database dump
+5898.621 (9) backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-db-table-wp_termmeta.table.gz (30/62/fopen): adding to final database dump
+5898.623 (9) backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-db-table-wp_terms.table.tmpr36.gz (31/62/fopen): adding to final database dump
+5898.625 (9) backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-db-table-wp_terms.table.gz (32/62/fopen): adding to final database dump
+5898.626 (9) backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-db-table-wp_wc_category_lookup.table.tmpr1001.gz (33/62/fopen): adding to final database dump
+5898.627 (9) backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-db-table-wp_wc_category_lookup.table.gz (34/62/fopen): adding to final database dump
+5898.629 (9) backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-db-table-wp_wc_product_meta_lookup.table.tmpr82.gz (35/62/fopen): adding to final database dump
+5898.630 (9) backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-db-table-wp_wc_product_meta_lookup.table.gz (36/62/fopen): adding to final database dump
+5898.631 (9) backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-db-table-wp_wc_reserved_stock.table.tmpr1.gz (37/62/fopen): adding to final database dump
+5898.633 (9) backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-db-table-wp_wc_reserved_stock.table.gz (38/62/fopen): adding to final database dump
+5898.634 (9) backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-db-table-wp_wc_tax_rate_classes.table.tmpr4.gz (39/62/fopen): adding to final database dump
+5898.635 (9) backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-db-table-wp_wc_tax_rate_classes.table.gz (40/62/fopen): adding to final database dump
+5898.636 (9) backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-db-table-wp_woocommerce_order_itemmeta.table.tmpr554.gz (41/62/fopen): adding to final database dump
+5898.638 (9) backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-db-table-wp_woocommerce_order_itemmeta.table.tmpr745.gz (42/62/fopen): adding to final database dump
+5898.639 (9) backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-db-table-wp_woocommerce_order_itemmeta.table.gz (43/62/fopen): adding to final database dump
+5898.640 (9) backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-db-table-wp_woocommerce_payment_tokenmeta.table.tmpr0.gz (44/62/fopen): adding to final database dump
+5898.642 (9) backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-db-table-wp_woocommerce_payment_tokenmeta.table.gz (45/62/fopen): adding to final database dump
+5898.643 (9) backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-db-table-wp_gla_attribute_mapping_rules.table.tmpr0.gz (46/62/fopen): adding to final database dump
+5898.644 (9) backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-db-table-wp_gla_attribute_mapping_rules.table.gz (47/62/fopen): adding to final database dump
+5898.646 (9) backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-db-table-wp_gla_budget_recommendations.table.tmpr4231.gz (48/62/fopen): adding to final database dump
+5898.647 (9) backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-db-table-wp_gla_budget_recommendations.table.gz (49/62/fopen): adding to final database dump
+5898.648 (9) backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-db-table-wp_gla_merchant_issues.table.tmpr0.gz (50/62/fopen): adding to final database dump
+5898.650 (9) backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-db-table-wp_gla_merchant_issues.table.gz (51/62/fopen): adding to final database dump
+5898.651 (9) backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-db-table-wp_gla_merchant_price_benchmarks.table.tmpr0.gz (52/62/fopen): adding to final database dump
+5898.652 (9) backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-db-table-wp_gla_merchant_price_benchmarks.table.gz (53/62/fopen): adding to final database dump
+5898.654 (9) backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-db-table-wp_gla_shipping_rates.table.tmpr0.gz (54/62/fopen): adding to final database dump
+5898.655 (9) backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-db-table-wp_gla_shipping_rates.table.gz (55/62/fopen): adding to final database dump
+5898.656 (9) backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-db-table-wp_gla_shipping_times.table.tmpr0.gz (56/62/fopen): adding to final database dump
+5898.658 (9) backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-db-table-wp_gla_shipping_times.table.gz (57/62/fopen): adding to final database dump
+5898.659 (9) backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-db-table-wp_wc_admin_note_actions.table.tmpr633.gz (58/62/fopen): adding to final database dump
+5898.660 (9) backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-db-table-wp_wc_admin_note_actions.table.gz (59/62/fopen): adding to final database dump
+5898.662 (9) backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-db-table-wp_wc_admin_notes.table.tmpr69.gz (60/62/fopen): adding to final database dump
+5898.663 (9) backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-db-table-wp_wc_admin_notes.table.gz (61/62/fopen): adding to final database dump
+5898.665 (9) backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-db-table-wp_wc_customer_lookup.table.tmpr2.gz (62/62/fopen): adding to final database dump
+5898.666 (9) backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-db-table-wp_wc_customer_lookup.table.gz (63/62/fopen): adding to final database dump
+5898.668 (9) backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-db-table-wp_wc_download_log.table.tmpr0.gz (64/62/fopen): adding to final database dump
+5898.670 (9) backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-db-table-wp_wc_download_log.table.gz (65/62/fopen): adding to final database dump
+5898.671 (9) backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-db-table-wp_wc_order_addresses.table.tmpr5.gz (66/62/fopen): adding to final database dump
+5898.673 (9) backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-db-table-wp_wc_order_addresses.table.gz (67/62/fopen): adding to final database dump
+5898.674 (9) backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-db-table-wp_wc_order_coupon_lookup.table.tmpr1.gz (68/62/fopen): adding to final database dump
+5898.675 (9) backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-db-table-wp_wc_order_coupon_lookup.table.gz (69/62/fopen): adding to final database dump
+5898.676 (9) backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-db-table-wp_wc_order_operational_data.table.tmpr10.gz (70/62/fopen): adding to final database dump
+5898.679 (9) backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-db-table-wp_wc_order_operational_data.table.gz (71/62/fopen): adding to final database dump
+5898.680 (9) backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-db-table-wp_wc_order_product_lookup.table.tmpr11.gz (72/62/fopen): adding to final database dump
+5898.681 (9) backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-db-table-wp_wc_order_product_lookup.table.gz (73/62/fopen): adding to final database dump
+5898.682 (9) backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-db-table-wp_wc_order_stats.table.tmpr86.gz (74/62/fopen): adding to final database dump
+5898.683 (9) backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-db-table-wp_wc_order_stats.table.gz (75/62/fopen): adding to final database dump
+5898.685 (9) backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-db-table-wp_wc_order_tax_lookup.table.tmpr1.gz (76/62/fopen): adding to final database dump
+5898.686 (9) backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-db-table-wp_wc_order_tax_lookup.table.gz (77/62/fopen): adding to final database dump
+5898.687 (9) backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-db-table-wp_wc_orders.table.tmpr86.gz (78/62/fopen): adding to final database dump
+5898.688 (9) backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-db-table-wp_wc_orders.table.gz (79/62/fopen): adding to final database dump
+5898.689 (9) backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-db-table-wp_wc_orders_meta.table.tmpr31.gz (80/62/fopen): adding to final database dump
+5898.690 (9) backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-db-table-wp_wc_orders_meta.table.gz (81/62/fopen): adding to final database dump
+5898.691 (9) backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-db-table-wp_wc_product_attributes_lookup.table.tmpr1001.gz (82/62/fopen): adding to final database dump
+5898.693 (9) backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-db-table-wp_wc_product_attributes_lookup.table.gz (83/62/fopen): adding to final database dump
+5898.694 (9) backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-db-table-wp_wc_product_download_directories.table.tmpr3.gz (84/62/fopen): adding to final database dump
+5898.695 (9) backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-db-table-wp_wc_product_download_directories.table.gz (85/62/fopen): adding to final database dump
+5898.696 (9) backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-db-table-wp_wc_rate_limits.table.tmpr0.gz (86/62/fopen): adding to final database dump
+5898.697 (9) backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-db-table-wp_wc_rate_limits.table.gz (87/62/fopen): adding to final database dump
+5898.699 (9) backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-db-table-wp_wc_webhooks.table.tmpr0.gz (88/62/fopen): adding to final database dump
+5898.701 (9) backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-db-table-wp_wc_webhooks.table.gz (89/62/fopen): adding to final database dump
+5898.702 (9) backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-db-table-wp_woocommerce_api_keys.table.tmpr2.gz (90/62/fopen): adding to final database dump
+5898.703 (9) backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-db-table-wp_woocommerce_api_keys.table.gz (91/62/fopen): adding to final database dump
+5898.705 (9) backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-db-table-wp_woocommerce_attribute_taxonomies.table.tmpr5.gz (92/62/fopen): adding to final database dump
+5898.706 (9) backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-db-table-wp_woocommerce_attribute_taxonomies.table.gz (93/62/fopen): adding to final database dump
+5898.707 (9) backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-db-table-wp_woocommerce_downloadable_product_permissions.table.tmpr0.gz (94/62/fopen): adding to final database dump
+5898.710 (9) backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-db-table-wp_woocommerce_downloadable_product_permissions.table.gz (95/62/fopen): adding to final database dump
+5898.712 (9) backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-db-table-wp_woocommerce_log.table.tmpr0.gz (96/62/fopen): adding to final database dump
+5898.713 (9) backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-db-table-wp_woocommerce_log.table.gz (97/62/fopen): adding to final database dump
+5898.714 (9) backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-db-table-wp_woocommerce_order_items.table.tmpr78.gz (98/62/fopen): adding to final database dump
+5898.716 (9) backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-db-table-wp_woocommerce_order_items.table.gz (99/62/fopen): adding to final database dump
+5898.722 (9) backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-db-table-wp_woocommerce_payment_tokens.table.tmpr0.gz (100/62/fopen): adding to final database dump
+5898.723 (9) backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-db-table-wp_woocommerce_payment_tokens.table.gz (101/62/fopen): adding to final database dump
+5898.725 (9) backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-db-table-wp_woocommerce_sessions.table.tmpr97.gz (102/62/fopen): adding to final database dump
+5898.726 (9) backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-db-table-wp_woocommerce_sessions.table.gz (103/62/fopen): adding to final database dump
+5898.728 (9) backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-db-table-wp_woocommerce_shipping_zone_locations.table.tmpr3.gz (104/62/fopen): adding to final database dump
+5898.730 (9) backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-db-table-wp_woocommerce_shipping_zone_locations.table.gz (105/62/fopen): adding to final database dump
+5898.732 (9) backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-db-table-wp_woocommerce_shipping_zone_methods.table.tmpr6.gz (106/62/fopen): adding to final database dump
+5898.734 (9) backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-db-table-wp_woocommerce_shipping_zone_methods.table.gz (107/62/fopen): adding to final database dump
+5898.736 (9) backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-db-table-wp_woocommerce_shipping_zones.table.tmpr3.gz (108/62/fopen): adding to final database dump
+5898.739 (9) backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-db-table-wp_woocommerce_shipping_zones.table.gz (109/62/fopen): adding to final database dump
+5898.741 (9) backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-db-table-wp_woocommerce_tax_rate_locations.table.tmpr0.gz (110/62/fopen): adding to final database dump
+5898.742 (9) backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-db-table-wp_woocommerce_tax_rate_locations.table.gz (111/62/fopen): adding to final database dump
+5898.745 (9) backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-db-table-wp_woocommerce_tax_rates.table.tmpr0.gz (112/62/fopen): adding to final database dump
+5898.747 (9) backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-db-table-wp_woocommerce_tax_rates.table.gz (113/62/fopen): adding to final database dump
+5898.750 (9) backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-db-table-wp_wpforms_logs.table.tmpr0.gz (114/62/fopen): adding to final database dump
+5898.752 (9) backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-db-table-wp_wpforms_logs.table.gz (115/62/fopen): adding to final database dump
+5898.753 (9) backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-db-table-wp_wpforms_payment_meta.table.tmpr0.gz (116/62/fopen): adding to final database dump
+5898.755 (9) backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-db-table-wp_wpforms_payment_meta.table.gz (117/62/fopen): adding to final database dump
+5898.757 (9) backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-db-table-wp_wpforms_payments.table.tmpr0.gz (118/62/fopen): adding to final database dump
+5898.758 (9) backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-db-table-wp_wpforms_payments.table.gz (119/62/fopen): adding to final database dump
+5898.760 (9) backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-db-table-wp_wpforms_tasks_meta.table.tmpr7.gz (120/62/fopen): adding to final database dump
+5898.763 (9) backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-db-table-wp_wpforms_tasks_meta.table.gz (121/62/fopen): adding to final database dump
+5898.764 (9) backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-db-table-wp_wpmailsmtp_debug_events.table.tmpr0.gz (122/62/fopen): adding to final database dump
+5898.766 (9) backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-db-table-wp_wpmailsmtp_debug_events.table.gz (123/62/fopen): adding to final database dump
+5898.768 (9) backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-db-table-wp_wpmailsmtp_tasks_meta.table.tmpr2.gz (124/62/fopen): adding to final database dump
+5898.770 (9) backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-db-table-wp_wpmailsmtp_tasks_meta.table.gz (125/62/fopen): adding to final database dump
+5898.778 (9) backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-db.gz: finished writing out complete database file (485.2 KB)
+5898.796 (9) Total database tables backed up: 62 (backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-db.gz, size: 496986, sha1: 5d4579e1daf0952bd364d09858f93cbb0745d1dd, sha256: fa9d864cbb8121bfdce320852bd36f50ff28f1721961a26219c8dc28e7fb1303)
+5898.808 (9) backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins.zip: plugins: This file has already been successfully uploaded
+5898.810 (9) backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins2.zip: plugins: This file has already been successfully uploaded
+5898.812 (9) backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-themes.zip: themes: This file has already been successfully uploaded
+5898.813 (9) backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-uploads.zip: uploads: This file has already been successfully uploaded
+5898.815 (9) backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-others.zip: others: This file has already been successfully uploaded
+5898.816 (9) backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-db.gz: db: This file has not yet been successfully uploaded: will queue
+5898.818 (9) Saving backup history. Total backup size: 109 MB
+5898.822 (9) Requesting upload of the files that have not yet been successfully uploaded (1)
+5898.829 (9) Cloud backup selection (1/1): googledrive with instance (1/1) (last)
+5898.831 (9) Beginning dispatch of backup to remote (googledrive) (instance identifier s-6dbe0820faa350eb384ba206fef28b09)
+5899.360 (9) Google Drive: quota usage: used=12638.9 MB, total=255032320 MB, available=255019681.1 MB
+5899.362 (9) Google Drive: backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-db.gz: Attempting to upload to Google Drive (into folder id: 1KdlW2vSWuwnNmaqI8dAXXe4Xrb9jmG8Z)
+5902.996 (9) Googledrive chunked upload: 100 % uploaded
+5903.007 (9) Google Drive: OK: Archive backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-db.gz uploaded in 3.64 seconds
+5903.009 (9) Recording as successfully uploaded: backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-db.gz
+5903.014 (9) Deleting local file: backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-db.gz: OK
+5903.018 (9) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+5903.021 (9) Number of backup sets in history: 1; groups (db): 1
+5903.022 (9) Examining (for databases) backup set with group_id=0, nonce=ab9e0834aae0, datestamp=1754019717 (Aug 01 2025 03:41:57)
+5903.023 (9) This backup set is the backup set just made, so will not be deleted.
+5903.023 (9) Number of backup sets in history: 1; groups (files): 1
+5903.025 (9) Examining (for files) backup set with nonce=ab9e0834aae0, datestamp=1754019717 (Aug 01 2025 03:41:57)
+5903.025 (9) This backup set is the backup set just made, so will not be deleted.
+5903.027 (9) This backup set is the backup set just made, so will not be deleted.
+5903.027 (9) This backup set is the backup set just made, so will not be deleted.
+5903.027 (9) This backup set is the backup set just made, so will not be deleted.
+5903.027 (9) This backup set remains non-empty (f=1/d=1); will retain in history
+5903.028 (9) Retain: saving new backup history (sets now: 1) and finishing retain operation
+5903.031 (9) Resume backup (ab9e0834aae0, 9): finish run
+5903.034 (9) [Info] Lock option (updraft_lock_ab9e0834aae0, wp_options) released
+5903.037 (9) There were no errors in the uploads, so the 'resume' event (10) is being unscheduled
+5903.042 (9) Deleting zip manifest (backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins.zip.list.tmp)
+5903.044 (9) Deleting zip manifest (backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-plugins2.zip.list.tmp)
+5903.046 (9) Deleting zip manifest (backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-themes.zip.list.tmp)
+5903.048 (9) Deleting zip manifest (backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-uploads.zip.list.tmp)
+5903.049 (9) Deleting zip manifest (backup_2025-08-01-0341_Bnh_Mobile_ab9e0834aae0-others.zip.list.tmp)
+5903.051 (9) No email will/can be sent - the user has not configured an email address.
+5903.054 (9) The backup succeeded and is now complete

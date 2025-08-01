@@ -44,7 +44,6 @@ add_filter('loop_shop_per_page', 'phonestore_products_per_page', 20);
 // Remove default WooCommerce styles
 add_filter('woocommerce_enqueue_styles', '__return_empty_array');
 
-// AJAX handler cho product search
 function phonestore_ajax_product_search() {
     if (!wp_verify_nonce($_POST['nonce'], 'phonestore_nonce')) {
         wp_die('Security check failed');
@@ -159,82 +158,6 @@ function phonestore_ajax_filter_products() {
     
     wp_send_json_success($html);
 }
-// Fix WooCommerce shop query
-function fix_shop_query($q) {
-    if (!is_admin() && $q->is_main_query()) {
-        if (is_shop() || is_product_category() || is_product_tag()) {
-            $q->set('post_type', 'product');
-            $q->set('posts_per_page', 12);
-            
-            // Handle custom filters
-            if (isset($_GET['filter_brand']) && !empty($_GET['filter_brand'])) {
-                $meta_query = $q->get('meta_query') ?: [];
-                $meta_query[] = [
-                    'key' => 'brand',
-                    'value' => sanitize_text_field($_GET['filter_brand']),
-                    'compare' => '='
-                ];
-                $q->set('meta_query', $meta_query);
-            }
-        }
-    }
-}
-add_action('pre_get_posts', 'fix_shop_query');
-
-// Force WooCommerce to show products
-function force_product_visibility($query) {
-    if (!is_admin() && $query->is_main_query() && (is_shop() || is_product_category())) {
-        $query->set('meta_query', [
-            [
-                'key' => '_visibility',
-                'value' => ['catalog', 'visible'],
-                'compare' => 'IN'
-            ]
-        ]);
-    }
-}
-// Thêm vào functions.php tạm thời
-function debug_shop_query() {
-    if (is_shop()) {
-        global $wp_query;
-        echo '<pre>';
-        echo "Query vars: ";
-        print_r($wp_query->query_vars);
-        echo "\nSQL Query: " . $wp_query->request;
-        echo '</pre>';
-    }
-}
-// Fix product visibility issues
-function fix_product_visibility_issues() {
-    $products = get_posts([
-        'post_type' => 'product',
-        'post_status' => 'publish',
-        'posts_per_page' => -1
-    ]);
-    
-    foreach ($products as $product) {
-        $wc_product = wc_get_product($product->ID);
-        if ($wc_product) {
-            // Force set visibility
-            $wc_product->set_catalog_visibility('visible');
-            $wc_product->set_stock_status('instock');
-            $wc_product->save();
-            
-            // Update meta directly
-            update_post_meta($product->ID, '_visibility', 'visible');
-            update_post_meta($product->ID, '_stock_status', 'instock');
-        }
-    }
-}
-
-// Chạy 1 lần để fix
-if (isset($_GET['fix_products'])) {
-    fix_product_visibility_issues();
-    echo "Products fixed!";
-    exit;
-}
-add_action('wp_footer', 'debug_shop_query');
-add_action('pre_get_posts', 'force_product_visibility');
 add_action('wp_ajax_phonestore_ajax_filter_products', 'phonestore_ajax_filter_products');
 add_action('wp_ajax_nopriv_phonestore_ajax_filter_products', 'phonestore_ajax_filter_products');
 ?>

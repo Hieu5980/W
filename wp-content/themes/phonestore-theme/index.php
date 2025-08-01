@@ -55,109 +55,98 @@
         </div>
     </section>
     
-    <!-- Debug: Kiểm tra WooCommerce -->
-    <?php if (class_exists('WooCommerce')): ?>
-        <div style="background: #f0f0f0; padding: 10px; margin: 20px 0; border-radius: 5px;">
-            <strong>WooCommerce Status:</strong> ✅ Active<br>
-            <strong>Total Products:</strong> <?php echo wp_count_posts('product')->publish; ?><br>
-            <strong>Shop URL:</strong> <a href="<?php echo wc_get_page_permalink('shop'); ?>">Shop Page</a>
-        </div>
-    <?php else: ?>
-        <div style="background: #ffcccc; padding: 10px; margin: 20px 0;">
-            ❌ WooCommerce không active
-        </div>
-    <?php endif; ?>
-    
     <!-- Featured Products -->
     <?php if (class_exists('WooCommerce')): ?>
     <section class="featured-products">
         <h2>📱 Sản phẩm nổi bật</h2>
-        
-        <?php
-        // Method 1: Sử dụng WP_Query thay vì wc_get_products
-        $featured_query = new WP_Query([
-            'post_type' => 'product',
-            'post_status' => 'publish',
-            'posts_per_page' => 8,
-            'meta_query' => [
-                [
-                    'key' => '_stock_status',
-                    'value' => 'instock'
-                ]
-            ]
-        ]);
-        ?>
-        
         <div class="products-grid">
-            <?php if ($featured_query->have_posts()): ?>
-                <?php while ($featured_query->have_posts()): $featured_query->the_post(); ?>
-                    <?php 
-                    global $product;
-                    if (!$product) {
-                        $product = wc_get_product(get_the_ID());
-                    }
-                    ?>
-                    <div class="product-item">
-                        <a href="<?php the_permalink(); ?>">
-                            <div class="product-image">
-                                <?php 
-                                if (has_post_thumbnail()) {
-                                    the_post_thumbnail('medium');
-                                } else {
-                                    echo '<img src="https://via.placeholder.com/300x300?text=No+Image" alt="No Image">';
-                                }
+            <?php
+            $featured_products = wc_get_products([
+                'limit' => 8,
+                'orderby' => 'popularity',
+                'status' => 'publish'
+            ]);
+            
+            if ($featured_products):
+                foreach ($featured_products as $product):
+            ?>
+                <div class="product-item">
+                    <a href="<?php echo $product->get_permalink(); ?>">
+                        <div class="product-image">
+                            <?php echo $product->get_image('medium'); ?>
+                        </div>
+                        <div class="product-info">
+                            <h3><?php echo $product->get_name(); ?></h3>
+                            <div class="price"><?php echo $product->get_price_html(); ?></div>
+                            <div class="product-specs">
+                                <?php
+                                $ram = get_field('ram', $product->get_id());
+                                $storage = get_field('storage', $product->get_id());
+                                if ($ram) echo '<span>RAM: ' . strtoupper($ram) . '</span>';
+                                if ($storage) echo '<span>Bộ nhớ: ' . strtoupper($storage) . '</span>';
                                 ?>
                             </div>
-                            <div class="product-info">
-                                <h3><?php the_title(); ?></h3>
-                                <div class="price">
-                                    <?php 
-                                    if ($product) {
-                                        echo $product->get_price_html();
-                                    } else {
-                                        echo 'Liên hệ';
-                                    }
-                                    ?>
-                                </div>
-                                <div class="product-specs">
-                                    <?php
-                                    if (function_exists('get_field')) {
-                                        $ram = get_field('ram');
-                                        $storage = get_field('storage');
-                                        if ($ram) echo '<span>RAM: ' . strtoupper($ram) . '</span>';
-                                        if ($storage) echo '<span>Bộ nhớ: ' . strtoupper($storage) . '</span>';
-                                    }
-                                    ?>
-                                </div>
-                            </div>
-                        </a>
-                        <div class="product-actions">
-                            <?php if ($product): ?>
-                                <a href="?add-to-cart=<?php echo get_the_ID(); ?>" class="add-to-cart-btn">
-                                    🛒 Thêm vào giỏ
-                                </a>
-                            <?php endif; ?>
-                            <button class="compare-btn" data-product-id="<?php echo get_the_ID(); ?>">
-                                ⚖️ So sánh
-                            </button>
                         </div>
+                    </a>
+                    <div class="product-actions">
+                        <a href="?add-to-cart=<?php echo $product->get_id(); ?>" class="add-to-cart-btn">
+                            🛒 Thêm vào giỏ
+                        </a>
+                        <button class="compare-btn" data-product-id="<?php echo $product->get_id(); ?>">
+                            ⚖️ So sánh
+                        </button>
                     </div>
-                <?php endwhile; ?>
-                <?php wp_reset_postdata(); ?>
-            <?php else: ?>
-                <div class="no-products">
-                    <p>🚫 Không có sản phẩm nào.</p>
-                    <p><a href="<?php echo admin_url('post-new.php?post_type=product'); ?>">Thêm sản phẩm đầu tiên</a></p>
                 </div>
-            <?php endif; ?>
+            <?php 
+                endforeach;
+            else:
+                echo '<p>Chưa có sản phẩm nào.</p>';
+            endif;
+            ?>
         </div>
     </section>
     
-    <!-- Latest Products với shortcode -->
     <section class="latest-products">
         <h2>🆕 Sản phẩm mới nhất</h2>
-        <div class="woocommerce-shortcode">
-            <?php echo do_shortcode('[products limit="8" columns="4" orderby="date"]'); ?>
+        <div class="products-grid">
+            <?php
+            $latest_products = wc_get_products([
+                'limit' => 8,
+                'orderby' => 'date',
+                'order' => 'DESC',
+                'status' => 'publish'
+            ]);
+            
+            foreach ($latest_products as $product):
+            ?>
+                <div class="product-item">
+                    <a href="<?php echo $product->get_permalink(); ?>">
+                        <div class="product-image">
+                            <?php echo $product->get_image('medium'); ?>
+                        </div>
+                        <div class="product-info">
+                            <h3><?php echo $product->get_name(); ?></h3>
+                            <div class="price"><?php echo $product->get_price_html(); ?></div>
+                            <div class="product-specs">
+                                <?php
+                                $ram = get_field('ram', $product->get_id());
+                                $storage = get_field('storage', $product->get_id());
+                                if ($ram) echo '<span>RAM: ' . strtoupper($ram) . '</span>';
+                                if ($storage) echo '<span>Bộ nhớ: ' . strtoupper($storage) . '</span>';
+                                ?>
+                            </div>
+                        </div>
+                    </a>
+                    <div class="product-actions">
+                        <a href="?add-to-cart=<?php echo $product->get_id(); ?>" class="add-to-cart-btn">
+                            🛒 Thêm vào giỏ
+                        </a>
+                        <button class="compare-btn" data-product-id="<?php echo $product->get_id(); ?>">
+                            ⚖️ So sánh
+                        </button>
+                    </div>
+                </div>
+            <?php endforeach; ?>
         </div>
     </section>
     <?php endif; ?>
@@ -347,25 +336,6 @@
 
 .compare-btn:hover {
     background: #5a6268;
-}
-
-.no-products {
-    text-align: center;
-    padding: 40px;
-    background: #f8f9fa;
-    border-radius: 10px;
-    color: #666;
-}
-
-.no-products p {
-    margin: 10px 0;
-    font-size: 18px;
-}
-
-.no-products a {
-    color: #007cba;
-    text-decoration: none;
-    font-weight: bold;
 }
 
 @media (max-width: 768px) {
